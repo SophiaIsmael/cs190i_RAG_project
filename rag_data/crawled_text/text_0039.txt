@@ -1,0 +1,1320 @@
+
+Voyager 1’s Long-Dead Thrusters Fire Again After 20 Years – Just in Time
+Close Menu
+ Facebook
+ X (Twitter)
+ Instagram
+ 
+Biology
+Chemistry
+Earth
+Health
+Physics
+Science
+Space
+Technology
+ 
+ Facebook
+ X (Twitter)
+ Pinterest
+ YouTube
+ RSS
+ 
+ 
+Home»Space»Voyager 1’s Long-Dead Thrusters Fire Again After 20 Years – Just in Time
+Space
+Voyager 1’s Long-Dead Thrusters Fire Again After 20 Years – Just in TimeBy Jet Propulsion LaboratoryMay 18, 2025169 Comments7 Mins Read
+Facebook
+Twitter
+Pinterest
+Telegram
+LinkedIn
+WhatsApp
+Email
+Reddit
+Share
+Facebook
+Twitter
+LinkedIn
+Pinterest
+Telegram
+Email
+Reddit
+NASA’s twin Voyager spacecraft, launched in 1977, are now traveling through interstellar space at around 35,000 mph (56,000 kph). This artist’s concept depicts one of the probes speeding away. Credit: NASA/JPL-Caltech
+Against all odds, NASA engineers brought back to life a set of Voyager 1’s thrusters thought to be dead since 2004.
+With the spacecraft now in deep interstellar space, the fix was driven by growing concerns that its currently used thrusters might soon fail. Racing against time before a long communications blackout, the team made a daring and intricate attempt to restore the dormant system. Their creative theory paid off, turning a nearly-forgotten system into a mission-saving backup, just in time.
+Reviving “Dead” Voyager 1 Thrusters
+In a remarkable engineering feat, NASA scientists at the Jet Propulsion Laboratory (JPL) in Southern California have reactivated a set of thrusters on the Voyager 1 spacecraft that hadn’t worked since 2004. These thrusters had been considered out of commission for two decades. Restoring them wasn’t easy—it took a mix of clever thinking and some risk, but the team wanted a reliable backup. That’s because the main thrusters currently in use are showing signs of clogging from residue, which could stop them from working as soon as this fall.
+The timing was critical. NASA needed to revive these backup thrusters before May 4, when the powerful Earth-based antenna responsible for sending commands to Voyager 1 and its twin, Voyager 2, would go offline for several months of scheduled upgrades.
+Navigating Interstellar Roll Control
+Launched back in 1977, both Voyagers are now flying through interstellar space at speeds of around 35,000 miles per hour. To stay in touch with Earth, they use small thrusters to adjust their orientation, keeping their antennas aimed precisely at our planet so they can send and receive signals.
+Each Voyager has a set of primary thrusters that control movements in multiple directions, along with separate thrusters for a specific type of movement called roll motion. From Earth’s perspective, this roll looks like the antenna spinning like a vinyl record. That subtle motion helps the spacecraft lock onto a guide star to stay properly aligned.
+The spacecraft also carry backup thrusters for roll control. A third set, which was originally used during their planetary flybys, was brought back online in 2018 and 2019. However, those thrusters aren’t capable of handling roll adjustments, which are crucial for maintaining contact with Earth.
+Thruster Failure and Backup Strategy
+To manage the clogging tubes in the thrusters, engineers switch between the sets of primary, backup, and trajectory thrusters of both Voyagers. But on Voyager 1, the primary roll thrusters stopped working in 2004 after losing power in two small internal heaters. Engineers determined the broken heaters were likely unfixable and opted to rely solely on Voyager 1’s backup roll thrusters to orient the star tracker.
+“I think at that time, the team was OK with accepting that the primary roll thrusters didn’t work, because they had a perfectly good backup,” said Kareem Badaruddin, Voyager mission manager at JPL, which manages the mission for NASA. “And, frankly, they probably didn’t think the Voyagers were going to keep going for another 20 years.”
+New Theory Rekindles Old Hope
+But without the ability to control the spacecraft’s roll motion, a variety of issues would arise that might threaten the mission, so the engineering team decided to reexamine the 2004 thruster failure. They began to suspect that an unexpected change or disturbance in the circuits that control the heaters’ power supply had effectively flipped a switch to the wrong position. If they could turn the switch back to its original position, the heaters might work again, enabling them to reactivate the primary roll thrusters and use them if the backup roll thrusters that have been used since 2004 become completely clogged.
+Risky Restart Under Tight Timeline
+The solution required some puzzle-solving. The team would have to turn on the dormant roll thrusters, then try fixing and restarting the heaters. If, during that time, the spacecraft’s star tracker drifted too far from the guide star, the long-dormant roll thrusters would automatically fire (thanks to the spacecraft’s programming). And if the heaters were still off when they fired, it could trigger a small explosion, so the team needed to get the star tracker pointed as precisely as possible.
+Deep Space Network, Deep Space Station 43 (DSS-43), a 230-foot (70-meter) antenna at the Canberra Deep Space Communications Complex near Canberra, Australia. Credit: NASA/JPL-Caltech
+Why Only One Antenna Could Save the Day
+It would be a race, and the team faced additional time pressure: From May 4, 2025, through February 2026, Deep Space Station 43 (DSS-43), a 230-foot-wide (70-meter-wide) antenna in Canberra, Australia, that’s part of NASA’s Deep Space Network, would be undergoing upgrades. It would be offline for most of that time, with brief periods of operation in August and December.
+Although the Deep Space Network has three complexes equally spaced around the globe (in Goldstone, California, and Madrid, in addition to Australia) to ensure constant contact with spacecraft as Earth rotates, DSS-43 is the only dish with enough signal power to send commands to the Voyagers.
+“These antenna upgrades are important for future crewed lunar landings, and they also increase communications capacity for our science missions in deep space, some of which are building on the discoveries Voyager made,” said Suzanne Dodd, Voyager project manager and director of the Interplanetary Network at JPL, which manages the Deep Space Network for NASA. “We’ve been through downtime like this before, so we’re just preparing as much as we can.”
+The team wanted to make sure the long-dormant thrusters would be available when the dish is back online briefly in August, by which time the thrusters currently in use on Voyager 1 might be completely clogged.
+A 20-Year-Old Long Shot Pays Off
+The advance work paid off: On March 20, the team watched as the spacecraft executed their commands. Because of Voyager’s distance, the radio signal takes over 23 hours to travel from the spacecraft to Earth, meaning everything the team saw happening had occurred almost a day earlier. If the test had failed, Voyager might already have been in danger. But within 20 minutes, the team saw the temperature of the thruster heaters rise dramatically and knew they had succeeded.
+“It was such a glorious moment. Team morale was very high that day,” said Todd Barber, the mission’s propulsion lead at JPL. “These thrusters were considered dead. And that was a legitimate conclusion. It’s just that one of our engineers had this insight that maybe there was this other possible cause and it was fixable. It was yet another miracle save for Voyager.”
+More About Voyager
+Voyager 1 and 2 are NASA’s iconic deep space explorers, launched in 1977 to study the outer planets—Jupiter, Saturn, Uranus, and Neptune. Now located about 15 billion miles (Voyager 1) and 13 billion miles (Voyager 2) from Earth, the spacecraft have traveled farther than any human-made objects in history.
+After completing their planetary missions, both Voyagers became the first and only spacecraft to enter and transmit data from interstellar space—the vast region beyond our solar system’s planets and outside the heliosphere, the Sun’s protective bubble of particles and magnetic fields. Their ongoing journey continues to provide groundbreaking insights into the distant boundaries of our solar neighborhood.
+Never miss a breakthrough: Join the SciTechDaily newsletter.
+JPL NASA Popular Voyager
+Share.
+Facebook
+Twitter
+Pinterest
+LinkedIn
+Email
+Reddit
+Related Articles
+NASA’s 38-Year-Old Voyager 2 Data Finally Solves Uranus’s Perplexing Mysteries
+12.8 Billion Miles From Home: How NASA Ingenuity Keeps Voyager 2 Running With Limited Power
+From 15 Billion Miles Away: NASA’s Voyager 1 Springs Back to Life
+12.3 Billion Miles Away: NASA Has Lost Communication With Voyager 2 Spacecraft
+12 Billion Miles Away: NASA’s Voyager 2 Continues Science Quest With Innovative Power Strategy
+Engineers Solve Data Glitch on NASA’s Voyager 1 – But There’s Still a Problem
+NASA’s Longest-Lived Mission: Voyager Probes Log 45 Years in Space
+NASA’s Voyager 1 Spacecraft Mystery: Engineers Investigating Telemetry Data
+Voyager 2 Illuminates Boundary of Interstellar Space 11 Billion Miles From Earth
+169 Comments
+ 
+Spinal cracker 77 T A on 
+						
+May 18, 2025 7:21 pm
+ 
+So it seems like my device might as well be on Voyager 1 . It’s not working right anyways and the battery is weakening, so oh well. It’s like trying to get back to that nasty battle of Gettysburg .
+Reply 
+ 
+Hclew Trebor on 
+						
+May 20, 2025 8:45 am
+ 
+Warning, folks; this article is going to go full-on religion rapidly.
+Reply 
+ 
+Dustin Normand on 
+						
+May 21, 2025 8:58 am
+ 
+They caused a internal explosion in the middle of the thrusters that contact when pushed into each other like a hydrogen bomb implosion when two highly radioactive metals come in contact with each other and rub against each other causing a radiant heat booga
+Reply 
+ 
+Roger Ellis on 
+						
+May 24, 2025 12:11 pm
+ 
+Love anything about Early Space Travel from first Alan Shepard Space Launch !! In 1950s Grade School early times and Election of John F Kennedy for President!!!! What a Big Event when John Glenn did His Time in Earth REVOLUTIONS  OF HIS SPACE CAPSULE!!!! SPACE STUDY WAS NEW SCHOOL STUDY POSSIBLE CAREER CHOICE???? I AM ROGER ELLIS MODESTO CA.  BORN    SEPT. 21  1951 COLORADO …
+Reply 
+ 
+Blaze on 
+						
+May 21, 2025 5:57 am
+ 
+They should use the visual camera. Thrusters take more energy to use than that. All the systems needed to control stuff to the thruster and all… might see nothing, or might be surprised.
+Reply 
+ 
+Thomas I Young on 
+						
+May 24, 2025 12:00 pm
+ 
+Very interesting article! Cheers for you remarkable people.
+Tom Young, Proud Michigander
+Reply 
+ 
+Lockey on 
+						
+May 26, 2025 2:56 am
+ 
+Bloody amazing stuff I rember ad a child when they were launched
+Reply 
+ 
+Franc Fortina on 
+						
+May 18, 2025 9:08 pm
+ 
+Looks like our W.J. TWT is still in full working order
+Reply 
+ 
+C Glenn on 
+						
+May 19, 2025 1:39 pm
+ 
+Wow! Impressive. Used WJ TWTs in the ALQ-135 ECM system on the F-15 Strike Eagle back in the early 70’s. I doobt if any of those are sstill fliing however.
+Reply 
+ 
+Laurel on 
+						
+May 19, 2025 5:25 pm
+ 
+The concept of One God who knows and controls everything is beyond our ability to comprehend but that is not to say He does not exist, or that it is impossible for Him to exist. None of us has the intellectual ability to  understand all the possibilities that exist, so we cannot make that determination.
+Reply 
+ 
+Rev. Lonnie Wadsworth on 
+						
+May 19, 2025 6:32 pm
+ 
+So true….the Bible says we are made in the “image of God”, but we humans aren’t God. We have made gods out of other things, that our God has created.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 9:32 pm
+ 
+There is no more reason to believe in the Bible than to believe in the Gita or the Koran or any other mythological text.
+Reply 
+ 
+Steven Jennings on 
+						
+May 21, 2025 10:02 am
+ 
+Yes there is. The Bible is the truth. It says so!
+ 
+JDA1of3 on 
+						
+May 21, 2025 11:51 pm
+ 
+To say the Bible is mythological is ignorant. No other text has had the many, many prophecies contained therein come to pass.  The Bible’s over 300 prophecies pertaining only to Jesus have come to pass. Jesus is God abs He wants you to know him.
+ 
+AG3 on 
+						
+May 22, 2025 8:19 am
+ 
+JDA1of3,
+Bible is written after Jesus – so how hard is it to put a prophesy in there about Jesus? It is naïve to think that those prophesies have any supernatural connection. If anything, prophesies are attempts at deceiving the readers.
+You know what prophesy would have nice if it were in the Bible? The fact that the earth goes around the sun and not the other way around. Or about diseases caused by germs. Or Quantum Mechanics. You know something that can be checked objectively and precisely.
+ 
+Terry on 
+						
+May 19, 2025 9:33 pm
+ 
+Absolutely correct!
+Reply 
+ 
+Bill on 
+						
+May 22, 2025 2:04 pm
+ 
+Religion is about subjective reality while science is about objective reality.   The two should never be mixed.
+Instead of arguing the reality of religion maybe those who believe should try living by the principles contained within.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 5:33 am
+ 
+Trouble is, that a) religious people want their religion to spread so they won’t shut up about it, b) the predominant religion on north America is using their mythology as a basis for the law of the land and c) the principles presented in the aforementioned religion are so ambiguous that you can be cruel or kind without falling afoul of scripture.
+ 
+atheistic on 
+						
+May 20, 2025 3:17 am
+ 
+I definitely have the intelligence to comprehend that there are no supernatural beings pulling strings on Earth. Never seen one. Nor has any other human. Science is your answer. Show me proof of god and I’ll believe. Until then religion is fairy tales
+Reply 
+ 
+Sheila on 
+						
+May 20, 2025 4:37 am
+ 
+You don’t believe that G-D is our creator?
+Reply 
+ 
+Bzmouse on 
+						
+May 20, 2025 4:14 pm
+ 
+Science believes in evolution which is never been true they also believe in billions and billions of years which is in no wise able to be figured out to so-called carbon dating which is flawed
+ 
+AG3 on 
+						
+May 20, 2025 9:28 pm
+ 
+Sheila, no God is not our creator. The holy books that make such claims are riddled with vague passages, inconsistent narratives, and outright mistruths. 
+And, by the way, which God are you talking about? There are thousands of Gods. Are you talking about Christian God, Allah, Vishnu, Shiva, Zeus, ….
+ 
+Dawkins on 
+						
+May 25, 2025 12:22 pm
+ 
+Enough of this irrelevant mystic nonsense. Bye bye to these replies.
+ 
+Duh-g on 
+						
+May 20, 2025 9:26 am
+ 
+The problem with “the” science proving God exists is that it’s rules physical, quantum and others we have not yet discovered were created by God to not understand God, but to make the creation understandable. Science hasn’t disproven God and will always be unable to prove God until we discover all the infinite science God continues to create. This is one reason God’s writings to us say faith is the way “to” God not how to understand God.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 11:01 pm
+ 
+Duh – which writing is God’s writing? How do you know that it is God who wrote that, and not someone else claiming to be God?
+ 
+Soobrie on 
+						
+May 21, 2025 1:54 am
+ 
+God=Creator=Universe. 
+We are made up from particles created by the universe.  So we are the children of the universe (Creator/God). We exist so that we can understand creation from a different perspective and God has provided us with all the tools to do so.
+ 
+AG3 on 
+						
+May 23, 2025 6:25 am
+ 
+Soobrie,
+If you want to name the forces that created us as “God”, then that is OK. We obviously came from something. But, how do you know that that something is sentient? And even if we came from a sentient being, how do you know what it wants of us? Many Gods have strict rules – how did we get those rules?
+ 
+Ryan on 
+						
+May 20, 2025 10:41 am
+ 
+Proof of God was left vacant on purpose.
+If there was proof of God, then there would not been freedom of choice.
+Perhaps that’s beyond many or most people’s understanding??
+May have to do your own research to figure that out.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 9:31 pm
+ 
+Ryan, so not believing in God is also a choice? How is that choice any worse or any better than believing in a God?
+ 
+Scott on 
+						
+May 21, 2025 5:30 am
+ 
+“Freedom of choice?”  What’s that supposed to mean — sounds like religion to me.  We’re deterministic biological organisms, programmed by DNA, evolution, physics, cultural psychology.  Anything beyond that is “miracles”, “magic”, and other such fluffy baggage
+ 
+Sam on 
+						
+May 20, 2025 11:02 am
+ 
+So to answer your question about showing you a there’s a God when the scientists have to have something to to predict show their prediction that it’s right how about when they had that God had a conversation with the atheist and he said okay you want to create that he said he picked up the dirty said now he goes you give me the dirt now you show me yours I created the dirt so I mean there’s enough drugs out there’s no dirt here first from the beginning then there is no proof of nothing see showed you drop the mic
+Reply 
+ 
+Sam on 
+						
+May 20, 2025 11:04 am
+ 
+That didn’t it said a lot of stuff that I didn’t say cuz I’m using them I’m using the voice mic but the the question was God said they said yeah I can prove that they do this and this happened this happened and you said how did you how did you find that out and he said when I analyzed the dirt then there’s what nothing there’s a God thank you love you Jesus
+ 
+Forrest on 
+						
+May 20, 2025 11:31 am
+ 
+Hey ponder this if you believe in the creator(many names) and live your life by his recommendation and live a happy life or you dont believe and live your life by your own recommendations and live a happy life. When you die, if there is no creator and no afterlife then life just ends but what if your wrong? You live happy either way on planet earth. One belief says you live on the other says you dont. Same kinda life different end. What do you have to lose?
+ 
+AG3 on 
+						
+May 20, 2025 9:43 pm
+ 
+Forrest,
+What if you are praying to the wrong God, and in the meantime the real God is getting madder and madder?
+This comes from Homer Simpson – but ‘the what if you’re wrong’ crowd needs to answer that.
+A better solution is to live a good life and not pray to any god. What constitutes a good life is mostly common to all religions and to laws of all nations.
+ 
+John on 
+						
+May 23, 2025 6:13 am
+ 
+Drugs? This random collection of words you penned does not  convey a comprehensive idea. Sounds like you are under the influence of drugs.
+ 
+Bzmouse on 
+						
+May 20, 2025 4:17 pm
+ 
+Science believes in evolution which is never been true they also believe in billions and billions of years which is in no wise able to be figured out to so-called carbon dating which is flawed
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 10:13 pm
+ 
+It’s not just carbon dating – a bunch of evidence points to an old approximately 4.5 billion year old earth. You need to prove the flaw in all such evidence.
+Your ‘evidence’ comes from a book written by unimaginative folks who couldn’t think of a number bigger than 6000. It is an outlier – no other evidence points to a 6000 year old earth. You seem not to understand that book authors can and do lie quite frequently. Written words in a book is not a guarantee of its correctness. If all books were true, then Koran and Vedas will be true also, and so would be those written by Tolkien. We would then have several conflicting narratives.
+ 
+isolate on 
+						
+May 21, 2025 1:19 pm
+ 
+Evolution is central to biology.  It’s proved itself over and over again.
+Carbon dating has nothing to do with billions of years, only with paleontology in the geologically recent past. There are myriad other dating methods you apparently choose to ignore. Your loss.
+ 
+Ivan on 
+						
+May 21, 2025 5:09 am
+ 
+But you probably believe that we are apes’ descendants. Let me tell you that I have been around almost 63 years and thanks God, I have not seen an ape driving a car, working with me, performing a surgery, piloting a plane, running from President (or been one of them), etc, etc, etc.
+Reply 
+ 
+Gen. Apathy on 
+						
+May 21, 2025 10:33 am
+ 
+We did not descend from apes. We and apes both descended from an ancient mammal and we both broke away from that lineage 10s of 1000s of years ago and evolved on a different path of DNA. Having said that, I have seen the odd monkey ride a bike and press a few buttons on a NASA spacecraft in my time so they are definitely catching up.
+ 
+isolate on 
+						
+May 21, 2025 1:41 pm
+ 
+Thank you for demonstrating your knowledge of evolutionary  biology which is obviously nil. You are using arguments that were outdated 150 years ago.
+Perhaps you should read up on the subject which is truly amazing. Then you would understand why there are apes and humans, just as there are jellyfish and humans. One species does not have to disappear for another species to develop and occupy its own evolutionary space. Apes and humans share a common ancestor: apes did not “turn into” humans. The fact that we share about 98 percent of our DNA with chimpanzees is remarkable and somewhat humbling.
+ 
+David on 
+						
+May 21, 2025 4:12 pm
+ 
+Nothing else explains our existence other than God the creator of everything physical.
+Reply 
+ 
+Boomer59 on 
+						
+May 26, 2025 6:27 am
+ 
+You want proof of God?  DNA is a dead giveaway.  DNA happened by “evolution” or chance you say?   That’s like saying you could put all the pieces of a mechanical pocket watch in your pocket, shake them around for millions or even billions of years and viola! You have a perfectly assembled watch that keeps perfect time.   Evolution is a stupid theory.
+Reply 
+ 
+AG3 on 
+						
+May 29, 2025 11:04 am
+ 
+Boomer59,
+Your post has one logical fallacy and one misconception about the science of evolution.
+The logical fallacy is this: suppose what you say is true, and evolution is a failed hypothesis. That just means Darwin was wrong. How does that lead to God? Why is God the only possibility? You’ve made a leap without any demonstrated reason.
+You also misunderstand the science of evolution. Evolution isn’t unguided, which is what you assume in your calculations of probability. In your example, shaking the watch parts in your pocket will not give you a watch – true. But what will give you a watch is if you start putting things together, and something prompts you to guide you and tell you if you’re on the right track or not. That prompting voice isn’t God (that would be another example of illogical leap of faith); it doesn’t even have to be sentient. Darwin showed that natural selection can do the guiding task. Natural selection is constantly choosing intermediate winners and discarding the losers. It is quite obvious that natural selection must work that way. This is why the products of natural selection are suited for the environment, but nothing else. An intelligently designed organism would be much more elegant, without vestigial organs, without junk DNA, without vulnerabilities. And almost all species that were ever there are now extinct – that would be an obvious result of natural selection, but that won’t happen with intelligent design.
+ 
+SarasotaFoodLover on 
+						
+May 20, 2025 8:46 am
+ 
+Why must there be a “higher being”? Just science please.
+Reply 
+ 
+Frank on 
+						
+May 20, 2025 9:06 am
+ 
+Thank you
+Reply 
+ 
+Sam on 
+						
+May 20, 2025 11:15 am
+ 
+The atheist said that the scientists said that if you take dirt it can create everything you need to create the earth. After that
+( GOD ) !!!!! Said go get your own DIRT.  !!!!!!
+BELIEVE !!!!!!  My friend. GOD is REAL..
+ 
+AG3 on 
+						
+May 20, 2025 9:24 pm
+ 
+Sam, sure – ask your God to show up and stake his claim.
+ 
+AG3 on 
+						
+May 20, 2025 9:23 pm
+ 
+We cannot understand all possibilities. But that doesn’t mean that all possibilities are true. The correct thing is to withhold belief when there is no evidence, rather than believe in the infinite possibilities that may be. One cannot lead a life believing in everything that have not been proven false. You are not doing so either. If you did, you’d be a Christian, a Muslim, an ancient Greek, a Hindu, and, yes, even an atheist – all at the same time. Instead, you believe in only one God over many possibilities – and this you did with no evidence.
+The Christian God has a bigger problem. He cannot exist. This is because you believe him to be omnipotent and omniscient and omnibenevolent – our world of disasters claiming innocent lives show that such a “tri-omni” God does not exist. The Christian God also talked too much in his holy book – a bunch of that information has now been shown to be false. To put it bluntly – the Christian God doesn’t know what he is talking about.
+Zeus is a better God to believe in. At least, his qualities do not lead to contradictions. Vindictive as hell, he is definitely a good fit for a world that dishes out death to innocents.
+Reply 
+ 
+John Kulinski on 
+						
+May 20, 2025 10:00 pm
+ 
+We don’t need to understand all the possibilities to decide if God exist or not. All we have to do is believe that God exist or does not believe.  I my self had severe shoulder cup pain. He hurt to raise my arm or even reach to scratch the top of my head. I asked God to heal my shoulder and he heard my prayer and healed my shoulder. To me it shows that yes there is a God and God will use his his powers to aid those who seek his face and ask for forgiveness. We don’t have to believe because we have faith.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 10:19 pm
+ 
+John, have you heard of other instances where pain subsided on its own? It could be that for you. The body does heal a lot of damages.
+Prayers don’t work. It is an easy experiment to set up. Go to the hospital. Pray for everyone there. Check if the hospital empties the next day.
+The benefits of intercessory prayers have been studied. Such prayers work at the rate of chance.
+Reply 
+ 
+AC on 
+						
+May 21, 2025 6:36 am
+ 
+Amen!  Believing in God is an individual choice unbelievable to some and total believable to others.  Freedom to choose. Just as there are many unexplained miracles, they need no explanation or proof when it’s your miracle. Until it’s yours, nothing will prove it to you.
+Reply 
+ 
+AG3 on 
+						
+May 22, 2025 8:22 am
+ 
+AC, I am with you. Unfortunately, all evidence from the beginning of religion to today points to the fact that religious people want to foist their religion onto others. They do not keep their belief to themselves. This is the cause of holy wars. This is the reason why panes fly into buildings. This is why even today laws exist on books that are solely of religious origin.
+ 
+Cski on 
+						
+May 22, 2025 4:35 am
+ 
+How in Hell did comments about voyager turn into a conversation about God? I get tired of people pushing their beliefs on others. There are so many variations of the belief in one god. And all stem from the same writings. And most had other writings that were tossed because they didn’t fit their narrative. So even if God exists, most are incorrect in their teachings because information was withheld . Therefore  I will take science as it always looks to seek the truth. I will also respect others beliefs as long as they don’t push their narratives on me. I will believe that there is a spiritual world beyond this one, and that when it’s my time to leave this body then I will go in peace. And leave you all pondering.
+Reply 
+ 
+AG3 on 
+						
+May 24, 2025 3:55 am
+ 
+Cski says: I will also respect others beliefs as long as they don’t push their narratives on me.
+This doesn’t happen for most religions. This never happens for Christianity and Islam because preaching is a major part of those religions. We shouldn’t live in a world of the hypothetical – we should assume that religion is a pernicious virus that makes the infected ones metaphorically cough on others to spread the infection.
+Reply 
+ 
+John on 
+						
+May 24, 2025 9:42 am
+ 
+What twaddle.
+Reply 
+ 
+Jesus on 
+						
+May 25, 2025 6:11 am
+ 
+Shut your trap
+Reply 
+ 
+Jake Sirloin on 
+						
+May 20, 2025 7:31 am
+ 
+VeeeeJuurrrrrr
+VeeeJurrrrr
+Reply 
+ 
+MacRorie on 
+						
+May 20, 2025 6:59 pm
+ 
+This made me burst of laughing. Nicely done!
+Reply 
+ 
+Cold Mountain on 
+						
+May 19, 2025 3:40 am
+ 
+Great job, of course, but one is left wondering when our social sciences will catch up with our physical sciences, and work out ways to stop suffering and violence and criminality and all the rest.
+War is the enemy, not each other.
+Reply 
+ 
+John boy on 
+						
+May 19, 2025 4:11 am
+ 
+)yes
+Reply 
+ 
+Robert on 
+						
+May 19, 2025 5:42 am
+ 
+When we learn to stop repressing, but rather to master the savage animal within us all. Gotta invent a better religion. Create a God which actually listens and responds to our prayers. An AI bot world dictator/president perhaps.  A truly benevolent friend to and guide which can convince all humans, from IQ-50 to IQ-500 that it the glue which holds us together in one family.
+Until each individual truly feels like part of the family, there will always be war.
+Reply 
+ 
+Mike on 
+						
+May 19, 2025 8:34 am
+ 
+Views very and all are relevant
+Respect all.
+Reply 
+ 
+Travis on 
+						
+May 19, 2025 9:29 pm
+ 
+God is beyond interpretation. To claim that God is a he just shows how biased humans are. If the Bible had been written by a woman they would be saying She in stead of He. I am agnostic you can’t prove there is nor can you prove there isn’t a supreme being. People who claim without a doubt (faith) are just so emotional that they disregard facts (science).
+Reply 
+ 
+Jake Sirloin on 
+						
+May 20, 2025 7:38 am
+ 
+VeeeeJuurrrrrr
+VeeeJurrrrr
+ 
+Michael Pierce on 
+						
+May 20, 2025 5:49 pm
+ 
+Are you sure? Just asking.
+ 
+AG3 on 
+						
+May 20, 2025 10:59 pm
+ 
+Michael Pierce, your question is an important one, because this is what keeps many people in fear. Suppose they are wrong about God, and they find out only after death?
+But this is the thing. There is no way to avoid this dilemma. We often think of only the one God that is believed around us. But there are many other Gods. Many other holy texts. Those texts are often contradictory. You cannot satisfy all Gods and all texts. So, what do you do?
+The best policy is to simply live a decent life. That way, you are approximately doing the right things.
+As for the question: does God exist? By almost all conventional notions of existence, the Christian God (which is what most people here talk about) does not exist.
+First problem is the hiddenness of God. Do we believe anything to exist with as little evidence of existence as the Christian God? I could claim myself to be the God – and I could have as much evidence of being a God as the Christian God.
+Second problem is that the Christian God is inconsistent – nothing all-powerful and all-benevolent will tolerate the senseless deaths from natural disasters and childhood diseases.
+The third problem is that the Bible has too many mistakes – especially about nature. A God who created nature should have done better.
+ 
+John mcgonigle on 
+						
+May 19, 2025 10:39 am
+ 
+I am just wondering how stupid NASA really thinks. The American citizens are you’re stealing 51 million dollars a day from us to give us fantasy and fake movies. And now you want us to believe that this thing fired up after 20 years, please stop lying to us. We are not this stupid.
+Reply 
+ 
+BigD on 
+						
+May 19, 2025 8:03 pm
+ 
+I had to check the name on this comment twice! Because it’s everything that I would say! Screw NASA! Defund em, and refund me!
+Reply 
+ 
+atheistic on 
+						
+May 20, 2025 3:19 am
+ 
+You’re delusional. Get help soon.
+Reply 
+ 
+Jake Sirloin on 
+						
+May 20, 2025 7:45 am
+ 
+What you’re thinking is far fetched is really not that difficult. Both probes were made specifically to accept commands and has so many onboard redundancies to maximize it’s longevity as a DEEP SPACE PROBE! What part[s] of the mechanics are you having issues with? I know, well I can understand, that people who aren’t well versed in sciences, particularly astrophysics and newtonian physics, may find some things just preposterous, but I can assure you it’s real. The engineering is truly remarkable!
+Reply 
+ 
+Thies Schaper on 
+						
+May 22, 2025 3:25 am
+ 
+Where does Herr Drumpf fit into all of this?
+Reply 
+ 
+AG3 on 
+						
+May 23, 2025 6:29 am
+ 
+Well, he is not a leader, but a follower. So, he follows the whims of his voters. (And stealing a bit of remuneration on the side – that’s separate)
+So, he is dismantling the educational and scientific research systems in the US. But then this too shall pass. Things go in waves. Hopefully.
+ 
+Spanky on 
+						
+May 19, 2025 12:24 pm
+ 
+Oh. That a.i. god will be represented by quantum computing and the upcoming anti christ.
+Reply 
+ 
+john hartigan on 
+						
+May 19, 2025 12:58 pm
+ 
+What is the outer most distance/time the 2 craft might conceivably provide useful information….and what type of data would that consist of?
+Reply 
+ 
+Keith on 
+						
+May 20, 2025 1:18 am
+ 
+I I believe more than not God exist
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 9:53 pm
+ 
+No one knows when these 2 crafts will fall silent. No one expected them to last this long.
+The latest data was about the composition of the interstellar medium.
+It is highly unlikely that the crafts will encounter any other major thing – the next star system is just too far away.
+Reply 
+ 
+Forrest on 
+						
+May 20, 2025 11:52 am
+ 
+Creator(god or whatever) offers a handbook. Some recommendations on life but leaves YOU the choice as whether you follow suggestions or not. Consequence’s for both choices. Its guidance not rules  thats why the world is as it is. For every action there is a reaction. But ultimately you get to choose. Science is nothing more that our understanding of ourselves and whats around us and how it all works. Science is based on rules of understanding which guides us and molds our ethics but its always changing where as belief in creator   Gives us a baseline that doesnt change but lets us discover and understand but have a stable baseline. Religion is not god. Religion is what man made up. The “bible” is a book that was made up by authors that left out books originally written because they didnt fit the narrative. You have to “research” the original texts to understand the actual guidelines that are suggested. The rules given are extreme emphasis as they have severe consequences but your still free to do as you want. God doesn’t want control as so many of you seem to think. God wants you to understand and make your own decisions. Do the research (science) and make your own decisions”informed decisions not just speculation and here-say. Fir many years scientists were convinced that the earth was flat and you were put to death for thinking otherwise but what drove people to test that theory what was their inspiration? Faith! That the earth wasnt flat. and faith that they could discover what was their truth.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 9:58 pm
+ 
+Forrest, no it wasn’t faith that led scientists to find out that the earth is a sphere. It was evidence. Subtle evidence like lengths of shadows at noon at different locations on earth. Or evidence like masts appearing before the hull of incoming ships.
+Before this evidence no one expressed any faith about a spherical earth – most likely they thought that the earth was flat. Evidence is something that can even convince a skeptic. That’s how it is different from faith.
+Reply 
+ 
+Winnie the Pooh on 
+						
+May 21, 2025 5:51 pm
+ 
+The body of evidence is now massive, in so many realms, like particle physics, mathematics, quantum mechanics, relativity, medicine, astronomy, evolutionary biology  and computer science.  ( just a few I can think of ) The evidence & advances since Galileos  day are compounded and repeated over and over, to now be so interlocking and so accurate that now those who dismiss this work, can’t have done their homework or aren’t reading the right stuff perhaps.  The Chandrashakar limit of the max radius of a white dwarf star,  that is calculated using the Pauli  exclusion principle,  Hisenbergs uncertainty principle and einsteins relativity and newtons laws all come together to produce a stunning masterpiece of modern science and its conclusions are backed up by evidence, no one has ever seen a white dwarf with more then 1.4 solar masses, and that is a balance of the pressure and gravity inside the heart of a star.  To get this number right proves science is on the right path, Religion as an infallible and unquestionable or unknowable thing just  is nonsense.  Its nonsense but it persists because it’s had a head start on science by a few hundred thousand years, and has millions of followers so is still a powerful dynamic on Earth,  and as a way of life has quite a lot of benefits, just the only problem is that at its heart is a God that simply is not credible any longer.  At its heart, sadly there is no God , chemistry, physics, random chance and a LOT of time is all you need.  Philosophy is important, human meaning is important , but the Universe is indifferent and to put a deity at the centre that’s to be taken literally is beyond absurd… and a one with human qualities is egotistical rubbish.
+ 
+Oncle on 
+						
+May 24, 2025 3:59 am
+ 
+Alas, evidence CAN’T convince all skeptics.  The indoctrinated can’t be educated.  And I really hate to say this, but the truth of science isn’t for everyone.
+Why?
+1. Because religion is glib.  The real world is very complicated.
+2. Because religion promises immortality, power, and divine protection.  Random chance sometimes seems to make religion deliver on the promises–and science can’t keep you alive forever.
+3. Because religion manipulates the weak of will. It offers them a false sense of belonging and purpose and then it empowers them to manipulate others.
+4. Because religion gives people a feeling of certainty.  They can say “god is testing you” or “god is punishing you” or “the devil is in you”.  Of course whether you’re tested or you’re being punished or devilish depends on whether they hate you, love you, or have indigestion at the moment.  Us science types know darn well we can’t know everything.
+5. Because so many people are predisposed to superstition.   That’s why casinos, like churches, are big business.
+6. Because religion has survival value.  It’s in human DNA.  Long ago, when your tribe was imperiled by an organized enemy, equally powerful unifying forces were needed so your tribe could survive.   Religion is an instinct that is very hard for some of us to resist.
+7.  Because when a person goes against religious beliefs, family and friends might ostracize them.  It’s easier to smile and nod and avoid isolation.
+8. Because misinterpreting circumstance is an ego boost.  “Guardian angels protected me!” means “I’m special and there’s a purpose in my life!”  All science says is that you’re an animal so you were born to propagate and die.  Giving your life meaning is up to you and that’s a tall order for some people.
+9. Because religion is a social phenomenon, and so it is manipulative by its very nature.  It’s astonishing how when I hear a religious person talk I feel like I’m hearing a litany in many voices.  Religion starts with faith in the messengers, not in the god.
+10. Because religion can be interpreted–and thus be tailored to one’s individual prejudices and vices.  It’s a meme that religiousness can make a “bad” person good.  That’s false.  Religion is surprisingly permissive in some ways, and history is full of “bad” people corrupting the church.  You can claim a spot in paradise, yet be as nasty as you wanna be.  Your cake and eat it too?  It’s irresistible to some people.
+11. Because, sadly, some people just don’t have the uh, sophistication–I guess?  I mean, everyone understands cause and effect so it’s not just a matter of intelligence.  It’s just that some people aren’t discerning.
+12. Because science requires a knowledge base and nobody, from Madison Avenue to Washington really wants an educated public.  A thoughtful, educated person is less likely to fall for a multi-billion-dollar ad campaign.
+13. Because believers pounce when you’re emotionally vulnerable.  It’s human nature to be more superstitious in times of stress.  The clergy knows this.
+14. Because people want order more than they want freedom.
+15. Because the clergy will lie for the cause.
+16. Because saving the world is so much harder than “saving your soul”.
+17. Because rationality isn’t as dramatic as histrionics and sentimentality. And we’re all about the drama.
+18. Because the truth is so complex that it requires a manifesto. tl;dr.
+ 
+Victor on 
+						
+May 19, 2025 8:40 am
+ 
+I
+Reply 
+ 
+Q on 
+						
+May 24, 2025 7:54 am
+ 
+People are lost without religion! People need to follow something, the stars, the sun, the waves, the birds, etc. Without a controlling thing, person, idol, they are lost. The adolescent kings of Egypt inherited their status because people need to follow something or someone. If not, we’re all just lost sheep.
+Reply 
+ 
+Neil on 
+						
+May 19, 2025 2:10 pm
+ 
+Well ❤️‍🩹 put.
+Reply 
+ 
+Achilles on 
+						
+May 19, 2025 4:58 pm
+ 
+Well, the Universe wasn’t created from nothing. Something beyond human understanding created everything that exists. The Universe didn’t just pop up from “nothing”.  Can any atheist define the beginning of the Universe? To claim that God does not exist ?
+Reply 
+ 
+Dennis Williams on 
+						
+May 20, 2025 1:36 am
+ 
+When Capt James Tiberius Kirk and his crew find V’ger. Then we all will know for sure what’s out there.
+Reply 
+ 
+Jake Sirloin on 
+						
+May 20, 2025 7:46 am
+ 
+What you’re thinking is far fetched is really not that difficult. Both probes were made specifically to accept commands and has so many onboard redundancies to maximize it’s longevity as a DEEP SPACE PROBE! What part[s] of the mechanics are you having issues with? I know, well I can understand, that people who aren’t well versed in sciences, particularly astrophysics and newtonian physics, may find some things just preposterous, but I can assure you it’s real. The engineering is truly remarkable!
+ 
+AG3 on 
+						
+May 20, 2025 10:04 pm
+ 
+Achilles, scientists do not know what the universe came out of. They don’t even know if the universe (or, maybe, the broader multiverse) existed forever.
+But how does that lack of knowledge convince you that there is a God? Lack of knowledge isn’t a license to guess randomly.
+Greeks believed in Zeus before they knew the cause of lightning. Now we know about what causes lightening. Where does that leave Zeus?
+And, even if there is a being like God who created the universe, how do you know what that God wants of you – or if this God even cares what you do?
+Reply 
+ 
+MEGUMI on 
+						
+May 19, 2025 2:46 pm
+ 
+LMAO.
+You people will believe anything.
+Reply 
+ 
+CS on 
+						
+May 19, 2025 3:35 pm
+ 
+You are your own god that power lives inside of you to believe in yourself or not!! You can blame whoever for whatever but it all comes back to you!!
+Reply 
+ 
+Kevin on 
+						
+May 19, 2025 4:37 pm
+ 
+That’s the problem right now.  Man made gods never satisfy and always fail.  We have 5,000 plus years of history to see that clearly.  There is only one God, and to think mankind create a better one is the height of arrogance and pride.
+Reply 
+ 
+Kevin2 on 
+						
+May 20, 2025 5:43 am
+ 
+100%, we created much but we only worked tools a short time ago,
+ 
+Bobby Filet on 
+						
+May 20, 2025 1:51 am
+ 
+Well said.
+Reply 
+ 
+Chris on 
+						
+May 20, 2025 3:45 am
+ 
+Another otherwise great story too watered down and smothered by advertising to tolerate and enjoy..  Somehow, we’ve slipped back into the 1990s where industries were too blind to recognize There’s a point where the returns and rewards are no longer worth it
+Reply 
+ 
+Jake Sirloin on 
+						
+May 20, 2025 7:37 am
+ 
+As long as their are humans there will be war, conflict, different belief systems that clash with others, haves and have nots, in short, there will be suffering! It is suffering that defines us and that is embedded within most religious beliefs, be it mono or polytheism! To try and deny that part of ourselves, I think, only causes more chaos and confusion.
+Reply 
+ 
+Ryan on 
+						
+May 20, 2025 10:43 am
+ 
+How do you think War started?
+Each other.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:21 pm
+ 
+The key to less violence is education. Our knowledge has increased over the last few centuries, and more and more people are now educated. While the current situation is not ideal, the previous centuries were worse in terms of war, intolerance and violence.
+Reply 
+ 
+Joe on 
+						
+May 19, 2025 3:57 am
+ 
+“Voyagers are destined, perhaps for all eternity, to wonder
+the cosmos carrying with them the only traces of our human existence.”  -Carol Meier
+Reply 
+ 
+Daniel on 
+						
+May 19, 2025 6:11 am
+ 
+Find a 1977 engine and take a good hard look at it
+  That is the technology used by the Voyagerd.  Amazing they still work!
+Reply 
+ 
+Stanimal on 
+						
+May 20, 2025 7:09 am
+ 
+Finally my Corvair gets some props
+Reply 
+ 
+dick a friend on 
+						
+May 19, 2025 8:04 am
+ 
+its too late for humans were beyond helpiing ourselves.  some insects may survive, but man will never be sustainable
+Reply 
+ 
+eddy winds on 
+						
+May 19, 2025 8:28 am
+ 
+One small step for Man,
+ one giant leap for mankind
+Reply 
+ 
+Martin on 
+						
+May 19, 2025 9:14 am
+ 
+It’s interesting that the discussion arrived at God so quickly. Voyager does fascinate me, because it has accomplished something far beyond what was originally intended and has discovered surprising things about the edge of the solar system, but it won’t tell us anything about God beyond what Yuri Gagarin reported in 1961 – namely that there’s no more sign of him in space than there is on Earth.
+I don’t agree that we need AI or some kind of dictator to solve social problems. This implies that obedience to something would help, when all available evidence tells us that obedience is a major cause of social problems, not a cure. Armies are made up of people who obey orders and look what happens when you let armies out to play. The most obedient societies from Sparta onwards have always been the most violent.
+If voyager has any bearing on the matter at all, it is that our legacy explanations of what life is about are untrue. We and our fellow inhabitants of the globe are the only intelligent stuff beings anywhere near here and if we screw up the planet, there is nowhere to go.
+Reply 
+ 
+Benj T on 
+						
+May 19, 2025 10:03 am
+ 
+Perhaps you would suggest anarchy? People always gravitate towards strong leaders and listen to what they say. Full autonomy of individuals also defaults to full relative morality which results in anarchy. This, from any point of view, is a step backwards in human society.
+Reply 
+ 
+Ross on 
+						
+May 19, 2025 11:41 am
+ 
+Believe what you want to Believe. The lord does exist and helps me through each and every day.
+Reply 
+ 
+B. Peters on 
+						
+May 19, 2025 8:28 pm
+ 
+Absolutely!  We are each in this on our own and we are each responsible for our own actions and selves. We will each answer to God for the way we lived the life He gave us and if we screw it up we will pay for it. If we play the game right we will go to heaven and that’s where I plan to go.
+So, tag your it……
+Reply 
+ 
+James on 
+						
+May 20, 2025 6:32 pm
+ 
+Amen
+Reply 
+ 
+AG3 on 
+						
+May 24, 2025 4:09 am
+ 
+I assume you are a believing Christian. Suppose Allah is the real God? Where do you think you’re going then?
+You have scared yourself into wasting the only life you have by imagining a bullying vengeful God that’s just waiting for you to screw up.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 4:42 am
+ 
+But that ain’t what your bible is says.  It’s not all freewill. God “calls” some people–in fact he compels them through miracles.  Others get barely a nudge and just go to hell.
+Certainly it doesn’t appear that Judas had a choice.  
+(I know you’re going to say “oh, some people just don’t heed the call.”  What else could you say?  Religion thrives on such ambivalence even as it claims to bring clarity.)  
+I used to be a believer.  I’ve read the bible more than once and multiple translations.  
+After a point I realized that religions are made up things.  That’s why there’s so many of them.  The pat explanation is that all those other religions are false and that the believers are actually seeking “my” god.  But I realized that that’s a rationalization.  It’s also presumptuous and insulting to those others.
+I know that religious people wrestle with questions like “did Judas go to hell?”  I did.  Then I started to question if I should be letting a single contradictory, ambiguous book be a guiding force in my life.  I started to reject the premise.
+Yes, I still wonder sometimes if I made the right choice, but that’s not “the lord” calling me.  That’s the conditioning I received all through my childhood.
+Reply 
+ 
+Sheila on 
+						
+May 20, 2025 4:40 am
+ 
+Amen!
+Reply 
+ 
+Sheila on 
+						
+May 20, 2025 4:41 am
+ 
+Amen! G-D does exist in my life and works in mysterious ways!
+Reply 
+ 
+AG3 on 
+						
+May 23, 2025 6:34 am
+ 
+Or, your mind works in mysterious ways.
+No one else would believe in your God because there is not a shred of evidence.
+But still, it is your personal choice to believe in such a God.
+But if that God starts giving you instructions, then it is unfortunate.
+And if then you try to enforce those instructions on others, then that’s tragic. You are then violating others’ personal choices. If history is any guide, this happens frequently and is the cause of many wars.
+Reply 
+ 
+PD on 
+						
+May 19, 2025 1:16 pm
+ 
+Quickly?  There are many people to whom every discussion must revolve around God.  I’ve known quite a few of them.  Talk about what you had for supper last night, and they’ll find a way to bring God into it.
+The larger the subject, the faster they move to God as the center of discussion.   And space is the biggest subject there is.
+Reply 
+ 
+Marilyn on 
+						
+May 19, 2025 5:16 pm
+ 
+As it should be for our God is an awesome God.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:23 pm
+ 
+Well said.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 5:14 am
+ 
+The discussion turned here because of the massive advertising campaign.  I don’t watch television and I employ an ad-blocker and I still can’t get away from those ads.  
+“I visited the ‘ruins’ of Sparta last year and the professor who was the tour guide stopped in an empty field and said ‘look around you, this is Sparta.  This is what they left behind.  No architecture, no science, no poems, no novels, no plays, no music, nothing.  Just grass in a field.  This is what a military society is worth.'”–Dynamaxion from Reddit
+Reply 
+ 
+Jeremy H. on 
+						
+May 25, 2025 5:14 pm
+ 
+Most of what we have for identifiable historical artifacts and written records is relatively recent history. And it is likely true that more material once existed than remains for us toe discover.
+But at the same time, the total human population of earth was tiny back then compared to now. Other things may have largely occupied our distant ancestors, like satisfying a variety of needs related to survival.
+Reply 
+ 
+Rev.Golk on 
+						
+May 19, 2025 10:59 am
+ 
+Awa an bile yer heeds!!
+Reply 
+ 
+RCS on 
+						
+May 19, 2025 11:34 am
+ 
+Both discussions are valid , OR NEITHER WOULD BE, OPEN YOUR WINGS AND FLY
+Reply 
+ 
+Spaced out on 
+						
+May 19, 2025 11:45 am
+ 
+The engineers were actually working under tighter time constraints than the article lets on. Not only did they have until May 4 to come up with a fix, they also had to wait 23-plus hours for a command to reach Voyager, and another 23-plus hours for its result. And on top of that, they could only send commands to the spacecraft when Canberra was facing it.  It’s a testament to the genius and resourcefulness of the engineers that they managed to fix it under such challenging conditions. And it’s remarkable to think that the spacecraft is so well-designed and resilient that such a fix was even possible.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 4:49 am
+ 
+Those 23 hour waits must have been excruciating!  And the sheer brain power, the thinking and rethinking re-re-rethinking that went into every move is astonishing to me.  The average person doesn’t think much of the Voyagers, but in certain circles they’re national treasures.
+Reply 
+ 
+Tommy on 
+						
+May 19, 2025 2:00 pm
+ 
+God listens if you believe in Jesus Christ.
+Remember, he’s not a vending machine, but the way, the truth, and the life!
+Praise God for without Him there would be no science!
+Reply 
+ 
+AG3 on 
+						
+May 21, 2025 10:26 pm
+ 
+Tommy, exactly how do you know all of these. Can you provide evidence of anything you said?
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 4:44 am
+ 
+If you were born on another continent, you’d probably be banging the gong for Krishna or Buddha.  Religious groups are social groups.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 5:20 am
+ 
+96 billion neurons in your brain, and you’re wasting them on religion.
+Reply 
+ 
+Jody on 
+						
+May 19, 2025 2:43 pm
+ 
+Brilliant
+Reply 
+ 
+Bob Labla Esq. on 
+						
+May 19, 2025 2:43 pm
+ 
+I amazes me with all the evolution mankind has gone through that with a wonderfully informative article like this, that the lowest individuals on the ladder can’t comment on anything other than the 2 most contested topics throughout the ages, ¹) religion and ²) politics, neither of which were brought up in the article so that people would actually read the whole article and be more informed.  It’s the pety little people that try to use every little pebble as their soapbox to tell everyone why they’re wrong about something they didn’t wish to discuss in the first place.  Their vacuous, shallow minded, egocentric, inane rantings are offensive even if only that in their puerile capacity they are incapable of rational discussions without dragging inflammatory offtopic toutingd into into discussions.
+Brevity is Bliss
+Reply 
+ 
+Mister Hero on 
+						
+May 19, 2025 3:03 pm
+ 
+Amen Bob and Martin,
+ I wish more people would tell these babbling idiots to stay on topic.  They’re simply that incapable of statements that are original.  They’re just Parroting what someone else at sometime has already said.  Let’s face it when it comes to religion there are no new thoughts, just new individual enlightenments, and them to think otherwise is, wow, beyond them really not getting it.
+Reply 
+ 
+James on 
+						
+May 20, 2025 6:35 pm
+ 
+Regardless of what u believe we Christians are nuts I do know one day u will bow before a Holy and Just God
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:26 pm
+ 
+James,
+How do you know that? You are seeing things that no one else can see – this could be clairvoyance, or it could be mental confusion.
+Reply 
+ 
+Marilyn on 
+						
+May 19, 2025 5:22 pm
+ 
+If brevity is bliss, why do you drone on and on and on. There are those of us who believe to God all the glory is warranted, especially when mentioning His glorious creation. The Scriptures tell us the heavens declare His glory.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:29 pm
+ 
+Marilyn, how do you know that your scriptures are correct? Assuming you are Christian, your scriptures make many claims about the world that turned out to be incorrect. If it was indeed God that helped write them, then this God is an ignorant character.
+Reply 
+ 
+Stephen on 
+						
+May 19, 2025 2:43 pm
+ 
+We ALL need to be respectful of each other and learn not to have greed in our hearts. God, no God! It doesn’t matter, what matters is that we survive. It matters that we make our global leaders understand that money is the root of all evil, not the answer. There will come a time when technology fails us and we will then need to learn how to live off the land. Our planet is unique and precious and needs to be treated as such. I don’t pray, but I will offer some wisdom. The people who have money and power, only want to take everything from everyone so we obey them, this is the purpose of religion and the creation of Gods. Fear! Live righteously and honorably. Love everyone the same.
+Reply 
+ 
+George on 
+						
+May 19, 2025 2:48 pm
+ 
+You people seriously falling for this BS!  You are the problem and why NASA and our governments can get away with so much, you’re all gullible as hell. None of this is true, fools!
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:31 pm
+ 
+George, outrage is not a sign of intelligence. You need to bring evidence to the table.
+Reply 
+ 
+Hero Tomillions on 
+						
+May 19, 2025 2:53 pm
+ 
+Amen Bob,
+ I wish more people would tell these babbling idiots to stay on topic.  They’re simply that incapable of statements that are original.  They’re just Parroting what someone else at sometime has already said.  Let’s face it when it comes to religion there are no new thoughts, just new individual enlightenments, and them to think otherwise is, wow, beyond them really not getting it.
+Reply 
+ 
+Musashi on 
+						
+May 19, 2025 9:54 pm
+ 
+Humans are quite humorous and extremely energetic to pour opinions upon the digital pages for other viewers reading enjoyment time.  How nonsensical this seems to us when they should be more aware of the rapidly shifting energies and vibrations of earths crying.  Warnings ignored, driven by fear and greed, now populate beyond capacity without a pragmatic ideal for future. Abandoned and have sadness as we remain to only witness forcefulness of humanities finish.
+Reply 
+ 
+CS on 
+						
+May 19, 2025 5:57 pm
+ 
+Crazy how smart and stupid we can be, the Voyagers are simply amazing and we do have good technology somewhere but why is today’s vehicle for the most part junk before 20 years or 200k miles if it had a normal life. That is terrible but we line up for another bigger piece of junk next generation every time, at a cost that times 5 buys a house in many areas.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:33 pm
+ 
+CS -it’s economics. Car companies cannot be in business much if cars didn’t break down so often. Of course, customer buying patterns could influence this behavior – but we consistently buy cars based on criteria other than longevity.
+Reply 
+ 
+Oncle on 
+						
+May 24, 2025 5:22 am
+ 
+It’s called “planned obsolescence”.  How do you expect all those car companies to stay in business if you only have to buy ONE car?
+Reply 
+ 
+Vince Brady on 
+						
+May 19, 2025 8:13 pm
+ 
+“Before the trembling hush of creation, before the measure of time, before the breath of angels or the stirring of stars, there was communion, uncreated, unbeginning, and utterly complete. Not a flash of divine activity, not the first moment of action or thought, but everlasting fellowship, Father, Son, and Holy Spirit. This is not a hierarchy of roles, nor a sequence of persons stepping forward one after another. It is the eternal harmony of One God in perfect triune fullness. The Son did not emerge from silence. He did not awaken into existence. He was not waiting to become. He is, eternally, immutably, gloriously. The Father never existed apart from the Son, nor the Spirit apart from either. There was never a time when Christ was not, never a moment when divine love was solitary. He is the Word, not spoken into being, but eternally spoken with being, the Living Expression who has always been with God and who is God.”
+From; The Infinite Christ. by- Robert Vincent Koury
+Reply 
+ 
+Big F on 
+						
+May 20, 2025 4:33 am
+ 
+God may exist; but any half intelligent person should not require a religion to believe in god, I certainly do not need a book of “fairy tales@ like the bible to tell me how to lead my life, I know to be good to others, not commit crimes like murder and abuse, and to basically be a good hard working individual who offers something that benefits our civilisation. So why don’t all you religious folk stop preaching and comment on the story at hand. Always, bloody preaching.
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:35 pm
+ 
+All companies on the S&P 500 are striving for growth. Why? Because it brings in more money.
+Religions preach for the same reason. They need a bigger set of customers to pay the tithe.
+Reply 
+ 
+porfirio on 
+						
+May 20, 2025 6:02 am
+ 
+i can assure you that there is something divine in this world or another. I have felt it and seen it with my own 2 eyes. Nothing could explain what ive experienced. Something greater does exist out there.
+Reply 
+ 
+Forrest on 
+						
+May 20, 2025 12:07 pm
+ 
+Voyager helping discover what was made for us to discover and learn. About creation! Someday we will discover the truth( which will be what we want to believe) it will be fact and yet some will deny it! But how will you know what is actually a fact? Ironic your life on earth has to end. Either there is nothing or everything. But you will not know till then. Enlightenment or nothing. But its still your choice. What guides your life? 
+Seems all “science and tech forums” seem to revolve around what guides your decisions on what and how you believe the data presented . If you dont believe in creator theory the what motivates you to believe the voyager data sent back is factual. Its Faith that what you see is in fact a fact. Everything revolve around faith!
+Reply 
+ 
+AG3 on 
+						
+May 20, 2025 8:41 pm
+ 
+Faith is belief in the absence of fact. If you put your hand in the fire, then it will burn regardless of what your faith tells you will happen. Facts have a way of existing regardless of faith.
+Reply 
+ 
+Flexyourbro on 
+						
+May 20, 2025 7:25 pm
+ 
+The point of the story. May the fourth be with you. That simple.
+Reply 
+ 
+Tai on 
+						
+May 21, 2025 2:30 am
+ 
+Religions really do help us shape our lives to better understand how to treat each other because back in the day they were a lot of barbarism (psychos) who think their actions was right just because they rule society in many ways from knowledges that were often being abused or mistreated. To believe how we (humans) shall live was determined by agreement with “acceptable” teaching bringing out the good common people out from us.
+Scientist on the other hand is the reason why we can smoke cannabis now, created tools that help our basic needs making it easier to be met with, and understand us the real TRUTH how things (organic/non-organic matter) works. Conclusion, Voyager 1 was created by a group of religious and non religious people that aim for a specific goal while staying on the same pathway altogether . Faith didn’t brought those thrusters back.. But the high level of cohesive relationship between the scientists, studies and calculations brought it back. 
+“Don’t argue with a scientist because you are not God”-Tai Nguyen
+Reply 
+ 
+Dustin Normand on 
+						
+May 21, 2025 9:03 am
+ 
+See it it all goes back to Star wars and you know I’m saying May the 4th to be with you and the 6th behind you
+Reply 
+ 
+Alan Sand on 
+						
+May 22, 2025 1:03 pm
+ 
+Wow…
+Go Voyager I & Voyager II…
+Think of it, technology from The 70’s Still Traveling through our Galaxy…
+God Speed…
+Reply 
+ 
+Bob on 
+						
+May 23, 2025 4:21 am
+ 
+We are Bob
+Reply 
+ 
+Gary C Gibson on 
+						
+May 24, 2025 6:03 am
+ 
+The unsaved feel more secure confirming one another’s unbelief. There are people, apparently, going to hell for eternity sadly, as they cannot be saved. People don’t know enough about scripture or history to have  a good opinion, much less faith. voyagers are nice tech yet a little pathetic too since they are somewhat slow. Well- scientists may develop better spacecraft someday that will make the journey to Proxima Centauri before humanity extinguishes its flickering candle of existence with bad environmental and economic management. Because the left have tried to make science and tech their own political turf of atheism they have helped divide the polity about issue that should be addressed with common sense,
+Reply 
+ 
+AG3 on 
+						
+May 29, 2025 6:06 pm
+ 
+Someone in the middle east is equally convinced that you have defied (their) god.  and thus will spend eternity in torment. You can’t both be right.
+But you can both be wrong. And you are both spending this one life you have cowering in fear of a made up vengeful god. What a way to waste a life!
+Reply 
+ 
+Sam on 
+						
+May 24, 2025 3:50 pm
+ 
+God has an IQ of a million x a million ,  we don’t have the intelligence of a rock in comparison  ,
+Reply 
+ 
+AG3 on 
+						
+May 29, 2025 6:02 pm
+ 
+You say your IQ is that of a rock. Yet, you know the IQ of God without having encountered him. Do you see why you sound brainwashed?
+Reply 
+ 
+Bill Johnson on 
+						
+May 24, 2025 9:16 pm
+ 
+I believe in a higher power we only use 7% to max 10% of our brain why is that and look at what we have accomplished..God is pure energy was he always I don’t believe so cause it’s stated we are made in his image we can’t falum using 100 % of our brain we would be pure energy if we could so we need to learn with lifetimes as baby steps to use more and more of our brains full capacity god is not seen in human form but a brightieat light seen as a brilliant white light not human form but pure energy seems to me now the bible isn’t a total correct book of god Jesus or the holy ghost it is a somewhat guideline for doing right from wrong and try to get each one of us through the life lessons we need to learn so we can move on to the next life lessons and a few more percentage of how to use our brain power I believe Jesus is a little misleading for us as through time was bent by those who want to control us as just that someone who died for our sins when really he was an example of what we have in our future of going pure energy and being able to use 100% of our brains his image was burned into the torrid because he went from a physical body to pure energy we are taught bogus contradicting things in the bible look we are taught heaven is streets of gold never no sickness where everyone is happy for eternity that’s bogus look it 7 billion something people on this planet if a third of those people disappeared that’s a lot of people well God cast the devil and a third of the angels in heaven out well seems to me that’s a lot of unhappiness in heaven that’s a lot of unhappy Angeles in a place where your happy for eternity seems like maybe that needs some attention on why the devil and a third of heaven was cast out it’s heaven they are giving up seems like it would take something major for heaven to be given up just not on a whim what could possibly been so bad that one third of the beings there would be ready to give it up and what could have been so bad that God cast out so many out of heaven to a lake of fire what the heck did so many do to deserve that, maybe they didn’t want to bow down like a slave to anyone maybe they as Angeles want the same rights as human beings and that’s free Will angels are a higher form than us humans right then why is a greating give is free Will but Angeles in heaven don’t get that gift,why it’s says don’t take your own life why is because if you do you have to start the life lesson you need to learn over,,look it in the old testament everyone lived longer why don’t we live hundreds of years like they did then because good saw man wasn’t learning how to use more percentage of there Brian getting them closer to pure energy stay they were just getting weary so he started then low humans were Lucky to live 30 to 40 years to the 80 to 100 we can live today making it a good learning cycle
+Reply 
+ 
+Yves on 
+						
+May 24, 2025 9:22 pm
+ 
+If if takes radio signals from Voyager 1 +23 hours to reach earth; how is it that the Nasa ream knew within 20 minutes that the test had succeeded?
+Reply 
+ 
+AG3 on 
+						
+May 29, 2025 6:22 pm
+ 
+That’s 20 minutes after the round-trip time. The previous sentence talks about that delay.
+Reply 
+Leave A Reply Cancel Reply
+Save my name, email, and website in this browser for the next time I comment.
+			
+ 
+ 
+ 
+Facebook
+Twitter
+Pinterest
+YouTube
+				Don't Miss a Discovery			
+Subscribe for the Latest in Science & Tech!
+ 
+Trending News
+A Monster Galaxy Is Forming Stars 300x Faster Than the Milky Way – And It Has a Perfect Spiral
+Scientists Develop New Solar Device That Squeezes Water From Air
+30% Weight Loss in a Week? The Metabolic “Kill Switch” Scientists Just Discovered
+Is It Alien Life – or Just Ethane? Scientists Reassess Webb Telescope Discovery
+Extraordinary Fossil Find Proves Dinosaurs Took Flight
+New Research Reveals That Chimpanzees Are Capable of Complex Communication – And We’re Finally Listening
+New Obesity Pill Mimics Gastric Bypass Without Surgery
+Everything Evaporates: From Neutron Stars to You, the Universe Is on a Clock
+ 
+Follow SciTechDailyFacebook
+Twitter
+YouTube
+Pinterest
+Newsletter
+RSS
+SciTech NewsBiology News
+Chemistry News
+Earth News
+Health News
+Physics News
+Science News
+Space News
+Technology News
+Recent Posts
+Scientists Discover Violation of 1931 Thermodynamic Principle
+Turning Waste Into Energy: New Enzyme Revolutionizes Biofuel Production
+New Clues to the Origins of Human Medicine: Chimpanzees Caught Healing Each Other’s Wounds in the Wild
+“It Was So Weird” – These Monkeys Have Started a Bizarre Kidnapping Fad
+Study Reveals Secret to Aging Well: It’s in the Carbs You Eat
+ 
+						Copyright © 1998 - 2025 SciTechDaily. All Rights Reserved.					
+Science News
+About
+Contact
+Editorial Board
+Privacy Policy
+Terms of Use
+ 
+Submit
+					Type above and press Enter to search. Press Esc to cancel.				
+ 

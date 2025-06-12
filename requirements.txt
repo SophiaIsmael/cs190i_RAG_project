@@ -1,0 +1,34 @@
+# uv venv --python 3.11
+# uv pip install -r requirements.txt
+
+huggingface_hub[cli]
+fiftyone
+ipykernel
+matplotlib
+pycocotools
+ffmpeg
+tqdm
+ipywidgets
+tensorboard
+ndjson
+sortedcontainers
+transformers
+accelerate
+bitsandbytes
+optimum
+trl
+datasets
+peft
+beautifulsoup4
+torch 
+torchvision 
+torchaudio
+chromadb
+
+
+
+
+
+
+
+

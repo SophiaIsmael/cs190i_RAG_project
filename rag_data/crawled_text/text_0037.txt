@@ -1,0 +1,174 @@
+
+A broken thruster jeopardized Voyager 1, but engineers executed a remote fix : NPR
+Accessibility links 
+Skip to main content
+Keyboard shortcuts for audio player
+                    Open Navigation Menu
+                
+Newsletters
+NPR Shop
+                    Close Navigation Menu
+Home
+News
+Expand/collapse submenu for News
+National
+World
+Politics
+Business
+Health
+Science
+Climate
+Race
+Culture
+Expand/collapse submenu for Culture
+Books
+Movies
+Television
+Pop Culture
+Food
+Art & Design 
+Performing Arts
+Life Kit
+Gaming
+Music
+Expand/collapse submenu for Music
+        All Songs Considered
+    
+        Tiny Desk
+    
+        New Music Friday
+    
+        Music Features
+    
+        Live Sessions
+    
+Podcasts & Shows
+Expand/collapse submenu for Podcasts & Shows
+Daily
+                                    Morning Edition
+                                
+                                    Weekend Edition Saturday
+                                
+                                    Weekend Edition Sunday
+                                
+                                    All Things Considered
+                                
+                                    Fresh Air
+                                
+                                    Up First
+                                
+Featured
+        Embedded
+    
+        The NPR Politics Podcast
+    
+        Throughline
+    
+        Trump's Terms
+    
+More Podcasts & Shows
+Search
+Newsletters
+NPR Shop
+        All Songs Considered
+    
+        Tiny Desk
+    
+        New Music Friday
+    
+        Music Features
+    
+        Live Sessions
+    
+About NPR
+Diversity
+Support
+Careers
+Press
+Ethics
+A broken thruster jeopardized Voyager 1, but engineers executed a remote fix NASA mission controllers raced against time to find a solution before a crucial ground-based radio used for communicating with Voyagers 1 and 2, went offline for upgrades.
+ 
+Space
+A broken thruster jeopardized Voyager 1, but engineers executed a remote fix
+May 20, 20255:00 AM ET
+By  
+      Scott Neuman
+    
+                An illustration provided by NASA depicts Voyager 1, the most distant spacecraft from Earth.
+                
+                    
+                    AP/NASA
+                    
+                
+hide caption
+toggle caption
+        
+        AP/NASA
+        
+    
+Earlier this year, NASA mission controllers faced a challenging decision that could have marked the end of Voyager 1's decades-long journey.  Launched in 1977 to explore the outer solar system, the spacecraft Voyager 1, along with its twin Voyager 2, depends on a powerful ground-based radio antenna for communication. This antenna needed to be taken offline for upgrades, but there was a real risk that when it was turned back on, contact with Voyager 1 might be lost forever. The main concern revolved around the spacecraft's roll thrusters, which ensure its antenna remains pointed at Earth. Since 2004, Voyager 1 has been using its backup thrusters after the primary system failed. But the backup system was showing signs that it, too, might fail. A buildup of residue in a fuel line threatened to eventually stop them from working.  
+Sponsor Message
+"Think of it as the nozzle getting smaller and smaller with debris," explains Voyager Mission Manager Kareem Badaruddin. "The thruster gets weaker and weaker and allows less propulsion." That propulsion is vital. Even a slight misalignment of the antennas could sever contact between the spacecraft and Earth, explains Voyager program scientist Patrick Koehn. "Even just a very small tip away, you know, a fraction of a degree, can swing the beam away from the Earth," he says. "Something like a half a degree results in the beam missing the Earth by … [the] distance between the Earth and the Sun." 
+                An annotated image showing the various parts and instruments of NASA's Voyager space probe design. Voyager 1 and its identical sister craft Voyager 2 were launched in 1977 to study the outer Solar System and eventually interstellar space.
+                
+                    
+                    NASA/Getty Images/Hulton Archive
+                    
+                
+hide caption
+toggle caption
+        
+        NASA/Getty Images/Hulton Archive
+        
+    
+The original switch to the backup thrusters happened when controllers noticed that heater switches in the primary system had turned off on their own, signaling a possible fault, Badaruddin says. As options dwindled, engineers revisited the primary roll thrusters to determine if they could be revived. "They went back, they looked at the old records. They decided it was worth trying to turn the heaters back on," Koehn says. But time was running out. Deep Space Station 43, a 230-foot dish located in Canberra, Australia, that's used to send commands to both Voyagers, was scheduled to go offline for upgrades on May 4. This dish is the only one with enough power to send commands to the Voyagers, according to NASA. It would not be fully operational again until February of next year. Except for brief periods of operation in August and December, engineers would be unable to send any commands to either spacecraft. 
+ 
+Space 
+After 35 Years, Voyager Nears Edge Of Solar System
+The Voyager team suspected that the heaters on the primary thrusters had turned themselves off because of an electronics glitch. But there was also a chance that if they tried to switch them back on and fire up the primary thrusters, the spacecraft could explode, Badaruddin says. He says they needed to test the thruster without actually igniting it in order to prevent a catastrophic explosion." Engineers were concerned that after being dormant for two decades in the cold of space, the thrusters might be beyond repair. 
+Sponsor Message
+But on March 20, the Voyager team received encouraging news: the test of the primary roll thruster was successful. 
+ 
+Short Wave 
+The Voyager 1 spacecraft has a big glitch. Now, NASA must figure out how to fix it
+Both spacecraft are showing signs of aging. In 2023, Voyager 1 started sending gibberish from deep space, but that issue was resolved last year. Also in 2023, a glitch in Voyager 2 caused it to briefly turn its antenna away from Earth.  The Voyager team remains optimistic about keeping the two spacecraft operational long enough to celebrate their 50th anniversary in 2027. "There's no reason it wouldn't go past [2027]… especially now that we know the thrusters are in good shape," Koehn says. That's a unique lifespan in the history of robotic exploration of the planets, according to Matt Shindell, the space history curator at the Smithsonian's National Air and Space Museum. Scientists continue to utilize insights gained from these missions, he says. The probes "gave us the best data" for the outer planets. "and in the case of Uranus and Neptune, that's still the best data we have," Shindell says. "The fact that it is still alive and still operating and still sending back information is really incredible," he says. The Voyagers are the only man-made objects that can tell us what the space between the stars is really like, Koehn adds. Scientists continue to learn from the probes, particularly how solar activity such as coronal mass ejections (CMEs), manifests at great distances. "They're seeing pressure pulses move past the spacecraft from events on our sun," he says. "So they're actually able to see how the sun interacts with the interstellar environment."
+Voyager 1
+NASA
+Facebook
+Flipboard
+Email
+Read & Listen
+Home
+News
+Culture
+Music
+Podcasts & Shows
+Connect
+Newsletters
+Facebook
+Instagram
+Press
+Public Editor
+Corrections
+Contact & Help
+About NPR
+Overview
+Diversity
+NPR Network
+Accessibility
+Ethics
+Finances
+Get Involved
+Support Public Radio
+Sponsor NPR
+NPR Careers
+NPR Shop
+NPR Events
+NPR Extra
+Terms of Use
+Privacy
+Your Privacy Choices
+Text Only
+ 
+Sponsor Message
+Sponsor MessageBecome an NPR sponsor

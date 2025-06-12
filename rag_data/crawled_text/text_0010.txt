@@ -1,0 +1,74 @@
+
+ESA - Sea surface warming faster than expected 
+Applications
+Sea surface warming faster than expected
+17/04/2025
+4776 views
+53 likes
+ESA /			Applications /			Observing the Earth /			Space for our climate
+Satellite observations show that sea-surface temperatures over the past four decades have been getting warmer at an accelerated pace.
+Between 1985 and 1989, a warming of 0.06 C per decade was observed, while from 2019 to 2023, the sea-surface temperature rose by 0.27 C per decade. This suggests that sea surface temperatures are rising 4.5 times faster since 2019 than they were at the end of the 1980s.The study calculated monthly global mean sea-surface temperature using global satellite data records generated through ESA’s Climate Change Initiative (CCI). The dataset used observations from 20 infrared radiometers on board satellites including ESA’s ERS-1, ERS-2, Envisat, Copernicus Sentinel-3 and two microwave radiometers from 1980 to 2023 to provide a globally accurate temperature trend.
+			Sea surface warming acceleration
+			Access the video
+The unprecedented warming was the finding of a study published in the journal Environmental Research Letters. The study attributes the rising sea surface temperature to increasing levels of greenhouse gases in the atmosphere. Lead author of the study, Chris Merchant, from Reading University, UK, explained that greenhouse gases trap heat in our atmosphere, resulting in an imbalance in the energy received by our planet from the Sun, and the energy radiated back out to space, resulting in an excess energy imbalance. He said, “This energy imbalance drives climate change. Given the accelerations in ocean warming and evolving climate dynamics, we need ongoing monitoring and data improvements to ensure our climate models can accurately reflect future temperature increases.” 
+The study analyses various factors that influence the warming of the oceans, from weather phenomena such as El Niño, to volcanic eruptions. It found these phenomena cause short-term fluctuations in sea-surface temperatures but do not significantly interrupt the long-term warming trend.Owen Embury, co-author and scientific leader of the ESA-CCI sea-surface temperature project, which contributed the long-term data set, said, “Our study clearly identifies the increasing accumulation of planetary energy as the dominant driver of long-term sea surface warming, while short-term variations from El Niño, volcanic activity and solar changes add variability but do not alter the overall accelerating trend.” 
+Global sea surface temperature
+The results of the current study will contribute to ESA’s science exploitation project, MOTECUSOMA which is investigating Earth’s energy imbalance and its impact on climate change. Owen added, “Addressing these challenges requires accurate climate projections – increasing ocean heat uptake intensifies extreme weather events, disrupts ecosystems and accelerates sea level rise, making continued observation and model refinement essential.”The SST data record is available from the ESA CCI data portal. Versions formatted to support global climate modelling efforts are available via Obs4MIPs framework. 
+Like
+Thank you for liking
+You have already liked this page, you can only like it once!
+Related Articles
+Story
+Applications
+Protecting ocean biodiversity with satellite data
+15/04/2025
+1455 views
+29 likes
+Read
+Story
+Applications
+Glacier melt intensifying freshwater loss and accelerating …
+19/02/2025
+9551 views
+58 likes
+Read
+Story
+Applications
+Swarm detects tidal signatures of our oceans
+22/01/2025
+3164 views
+67 likes
+Read
+Related Links
+Focus on
+Applications
+Observing the Earth
+Open
+Focus on
+Applications
+Environmental Research Letters
+Quantifying the acceleration of multidecadal global sea surface warming driven by Earth's energy imbalance
+Open
+Focus on
+Applications
+Climate Change Initiative
+Open
+Mission
+Applications
+Copernicus Sentinel-3
+Open
+Mission
+Applications
+Envisat
+Open
+Mission
+Applications
+ERS
+Open
+European Space Agency
+FAQ
+Contacts
+Terms and conditions
+Privacy notice
+Careers at ESA
+Subscribe 

@@ -1,0 +1,410 @@
+
+Internal variability effect doped by climate change drove the 2023 marine heat extreme in the North Atlantic | Communications Earth & Environment
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore content
+About the journal
+Publish with us
+Sign up for alerts
+RSS feed
+nature
+communications earth & environment
+articles
+article
+                            Internal variability effect doped by climate change drove the 2023 marine heat extreme in the North Atlantic
+                        
+Download PDF
+Download PDF
+Article
+Open access
+Published: 16 April 2025
+Internal variability effect doped by climate change drove the 2023 marine heat extreme in the North Atlantic
+Thibault Guinaldo 
+            ORCID: orcid.org/0000-0001-9792-83981 na1, Christophe Cassou 
+            ORCID: orcid.org/0000-0002-5164-16122,3 na1, Jean-Baptiste Sallée4,5 na1 & …Aurélien Liné2,6 na1 Show authors
+Communications Earth & Environment
+volume 6, Article number: 291 (2025)
+            Cite this article
+4785 Accesses
+136 Altmetric
+Metrics details
+Subjects
+Climate sciencesOcean sciences
+AbstractThe year 2023 shattered numerous heat records both globally and regionally. We here focus on the drivers of the unprecedented warm sea surface temperature (SST) anomalies which started in the North Atlantic Ocean in early summer and persisted later on. Evidence is provided that 2023 should be interpreted as an extreme event in a warmer world because of superimposed internal variability on top of human forcing, which altogether, made the 2023 event all-time high due to extreme air-sea surface fluxes in the subtropics and eastern basin. The effect of internal variability has been considerably boosted by the long-term ocean stratification increase due to combined anthropogenically-driven ocean warming and multidecadal variability. The 2023 event would have been impossible to occur without anthropogenically-driven climate change but at the current warmer background climate state, it is assessed as a decadal-type event when considering the full North Atlantic ocean and a centennial event in the subtropics and eastern basin. Considering the regional distribution of anomalies is crucial for risk assessment in a warming climate.
+Similar content being viewed by others
+Wide range of possible trajectories of North Atlantic climate in a warming world
+                                        
+Article
+Open access
+17 May 2024
+Drivers of future extratropical sea surface temperature variability changes in the North Pacific
+                                        
+Article
+Open access
+11 July 2024
+Human-induced intensified seasonal cycle of sea surface temperature
+                                        
+Article
+Open access
+10 May 2024
+IntroductionIn 2023, global surface air temperature reached an unprecedented high over the instrumental period, exceeding the previous record set in 2016 by a notable 0.16 °C margin1. Several phenomena have contributed to the 2023 record on top of dominant anthropogenically forced long-term warming: (i) the onset of a moderate-to-strong El Niño event in the Pacific and canonically acts as an efficient booster of global warming2, (ii) record low sea ice extent in the Southern Ocean3, and (iii) intense heat conditions throughout the North Atlantic and adjacent continents4, among other smaller-scale warming patterns.From 1971 to 2018, about 91% of the anthropogenic heat excess, primarily associated with fossil fuel burning5, has accumulated in the oceans6,7. The related increase in ocean heat content is associated with warming from surface to abysses. Global sea surface temperature (SST) has increased by 0.97 °C [0.77–1.09 °C] ([-] standing for the very-likely range used to assess a probability of outcome equal of 90–100% following IPCC AR6 convention8 and adopted throughout the paper) on average between 1850-1900 and 2014-20239. The anthropogenic long-term trend is modulated by internal variability on interannual to multidecadal timescales10. Specific phases of internal variability modes, such as ENSO, can temporally and regionally amplify anthropogenic warming, resulting in regional extreme events that far exceed historical records11,12. Such periods of anomalously high and persistent ocean temperatures, known as marine heatwaves (MHW), have been increasing globally in both frequency and intensity9. These events have severe and persistent impacts on marine ecosystems13, causing irreversible losses14,15 and significant socio-economic consequences16. The Atlantic basin has experienced a more pronounced warming trend since the 1990s compared to other ocean basins, with the greatest observed warming in a large tropical band between 35°S and 40°N17. In this basin, the number of MHW days has increased from about 12 to 30 days per year in less than a century18, affecting worldwide trades and related economic stability19.In 2022, the western coast of Europe and much of the North Atlantic experienced a year of exceptionally persistent high SSTs, with new records set in some parts of the Northeastern basin20. Building on this warm large-scale baseline, SSTs have continued rising at an unprecedented rate in 202321. A surge of warming occurred in late spring and SSTs remained at record levels throughout the entire year when averaged over the North Atlantic basin (NATL).Both the raw NATL temperature and the year-to-year temperature difference were unprecedented since the advent of satellite measurements in the 1980s (Fig. 1a). Understanding the origin of such an extreme interannual event, which has contributed significantly to breaking the global temperature record, is key to assessing future impacts in a warming climate4. This paper specifically focuses on the onset of the long-lasting 2023 North Atlantic extreme event by combining observational data through a process-based approach and outputs of large ensembles of simulations from the sixth phase of the Coupled Model Intercomparison Experiment (CMIP6). It documents how much of the observed warming in 2023 is attributable to human influence on one hand and internal variability on the other hand and highlights the interaction between the two.Fig. 1: Observed record-breaking North Atlantic Sea Surface Temperature (SST) anomaly in 2023.a Daily anomalies of SST with respect to the 1991-2020 mean from the OSTIA dataset averaged over the North Atlantic (NATL, 80°W–0°W, 10°N-60°N) region shown in black in the inset map, for 2023 (red), 2022 (blue) and the years of observed record annual SST for the 1990, 2000 and 2010 decades (grey). Dashed horizontal lines stand for yearly average in 2023 and 2022. The yellow shading corresponds to the May–June seasonal window studied in this paper. b Map of standardised SST anomaly for May–June 2023. The yellow contour outlines the region where the anomaly exceeds the 1991–2020 standard deviation, defining the horseshoe-shaped area that encompasses the strongest large-scale warming. c Same as (a) but for the horseshoe domain.Full size imageResultsExtreme North Atlantic ocean-atmosphere surface conditions in 2023The year 2023 starts from a warm background state inherited from the 2022 record-level, and sets 292 new daily records from March onwards (Fig. 1a). A shift occurs during May-June, with the NATL SST anomalies showing a unique increase (+0.57 °C in 25 days) in the OSTIA archive22. On average over May–June 2023, the NATL SST anomaly reaches +0.76 °C above the 1991–2020 climatological mean (Supplementary Fig. 1a) and extreme warmth persists later. The 2023 annual mean anomaly is +0.71 °C, exceeding 20 °C for the first time in the observational record. It is well above the previous annual record of 2022, which is broken by  ~0.32 °C and considerably higher than the observed record annual SST for the 1990, 2000, and 2010 decades (Fig. 1a).Basin-scale averages often mask regional fingerprints, which are key to understanding the drivers of change. The temperature surge in May–June 2023 is largely driven by the combined effect of exceptional warming in the tropical basin and in the eastern side of the North Atlantic Ocean, forming a distinctive horseshoe pattern (hereafter HS; Fig. 1b). This large-scale pattern corresponds to the leading mode of internal variability of summertime North Atlantic SST anomalies23,24. The latter explains 25% of the variance of May–June SST anomalies assessed over 1958–2023 after having removed a linear trend treated as proxy for anthropogenic warming. Evidence is shown here that the year 2023 is the highest amplitude of this mode on record (Supplementary Fig. 2). Accordingly, SST anomalies are maximised when averaged over the HS region (delimited here by the +1 standard deviation limit, Fig. 1b), with an annual mean value of +0.89 °C in 2023 relative to the 1991–2020 mean, the highest ever recorded in this region by far (Supplementary Fig. 1b). On a daily basis, the HS SST anomaly peaks on 21 June, with a remarkable anomaly of +2.02 °C, which beats the previous record by more than one degree and remains at record high levels despite some attenuation thereafter (Fig. 1c).The May-June HS mode of variability in the observed SST anomaly is associated with atmospheric conditions which primarily act as drivers for the surface ocean by modifying the surface turbulent and radiative fluxes23,25. Accordingly, the 2023 May-June anomalous mean sea level pressure is characterised by a pronounced contraction and weakening of the Azores High with negative anomalies close to two standard deviations in both east and west sides of the climatological centre of action (Fig. 2a). This induces an outstanding reduction of the trade winds by more than three standard deviations on the subtropical flank of the Azores High, from the Canary Archipelago to South America (Fig. 2b), leading to large-scale warming due to reduced latent heat loss [Supplementary Fig. 3a,25]. Such a wind anomaly concurrently damps the mean ocean surface cooling by reducing vertical mixing at the base of the mixed layer26, and by reducing upwelling linked to the Canary Current along the West African shore27,28.Fig. 2: Surface ocean-atmosphere conditions in May–June 2023.May–June standardised anomalies from ERA5 in 2023 compared to the 1991–2020 climatological period for (a) mean sea level pressure (the grey contours stand for the climatology to materialise the mean position of the Azores High over 1991–2020), (b) 10-m wind speed (the grey contours stand for the climatology of the zonal wind speed greater than 12 m s−1 at 300 hPa to materialise the mean position of the storm track over 1991–2020), (c) total cloud cover and (d) net total surface heat flux. The dark blue contour represents the HS domain.Full size imageIn the mid-latitudes, the weakened Azores High leads to reduced westerlies between Newfoundland and the UK, a feature that is reinforced by the presence of anomalous blocking High over Northern Europe associated with a northward shift of the summertime tail end of the storm track (Fig. 2a, b). The shift is clearly visible in cloud cover displaying a distinctive meridional dipole in anomaly, with strong reduction of cloudiness around 40°N from central basin to Europe, whilst increasing northward (Fig. 2c). Reduced cloud cover leads to excess downward shortwave radiation at the surface (Supplementary Fig. 3b). Warming results from the combination of wind-driven latent heat flux reduction and shortwave heat flux positive anomalies that are generally the greatest at midlatitudes (Supplementary Fig. 3a). Decreased cloudiness (Fig. 2c) and associated enhanced downward shortwave flux (Supplementary Fig. 3b) is also observed along the West African coast extending throughout the subtropical lobe of the HS region down to the Caribbean in collocation with anomalously warm SST. Low-level clouds dominate the subtropical eastern-central basin all year round29,30. Their formation is inhibited by warm ocean due to reduced low-level atmospheric vertical stability and their change acts in turn as a very efficient positive feedback through albedo effect in further warming up the surface ocean e.g.31,32. Such a feedback has been documented to be also at play over the North–East Atlantic in 2023, through a lower extent compared to synoptic forcing33.Over the western part of the basin, which is characterised by no warming or slightly cooler conditions (Fig. 1b), increased cloudiness (Fig. 2c) is associated with the local anomalous low-pressure core off the US coast (Fig. 2a). The latter favours tropical convection (not shown) and leads to a reduction in the downward shortwave flux, which has a cooling effect (Supplementary Fig. 3b). Along the Gulf Stream, the cooling is very likely explained by dynamical ocean processes which dominate the SST changes in this region, in contrast with the eastern and subtropical basins, which are mostly driven by flux anomalies34.Altogether, the surface atmospheric conditions lead to an extreme air-sea heat flux event over the HS region in 2023 (Fig. 2d), consistent with the hypothesis for a forcing role of the atmosphere on the ocean24. Shortwave, followed by latent heat perturbations, dominates in most of the regions. In contrast, sensible and longwave heat flux anomalies remain marginal (Supplementary Fig. 3c, d). These conditions enabled the development of the longest recorded category II MHW (see35 for the precise definition of the MHW categories), along the British and Irish coastlines from late May to June33.Ocean subsurface preconditioning in 2023The atmospheric conditions, triggering the intense marine heat extreme in May-June 2023, occur in the context of a long-term warming trend of the subsurface ocean in the HS region since the 1970s, superimposed on pluriannual to multidecadal variability (Fig. 3a). The three-dimensional ocean warming trend is amplified in the surface layer compared to the subsurface (Fig. 3a), which causes an increase of the upper ocean stratification (0–200 m; the effect of salinity change on stratification is comparatively negligible; Fig. 3b). In turn, the increased stratification tends to reinforce the amplification of the warming in the surface layer. The year 2023 establishes a record in the upper-ocean stratification anomaly of 1.4 × 10−5 s−2, assessed here by the square of the buoyancy frequency aka N2 (see Methods) more than three standard deviations estimated over the 1991–2020 climatological period (Fig. 3b). We have tested the robustness of this value using other observational products which all confirm the extreme nature of the subsurface oceanic conditions in 2023 (Supplementary Fig. 4).Fig. 3: Ocean subsurface preconditioning of the 2023 sea surface temperature extreme.a Vertical profile of May-June anomalous temperature averaged in the horseshoe-shaped region from surface to 600-metre depth compared to the 1991–2020 climatological mean from the IAP dataset (b) time-series of the 0-200 m stratification anomaly, N2 (black, see Methods), and temperature (dashed red) and haline (dashed green) contribution to the stratification. The right axis shows the value of the standard deviations of N2 (σ) estimated over the 1991–2020 climatological period. c Vertical profiles of May-June temperature anomaly averaged over the horseshoe-shaped region in 2023 (red), as well as for 1998, 2005, 2010 and 2022 (same as in Fig. 1). Map of the May–June 0–200 m stratification anomaly in 2023 for (d) stratification and (e) ocean heat content anomaly integrated over the top 200 m. The yellow contour represents the HS domain. The horizontal black dashed line in (a) and (c) shows the 200 m depth level used to compute stratification and upper ocean heat content.Full size imageThe upper ocean stratification trend, associated with long-term warming of the basin that is attributable to human influence (including both greenhouse gases and aerosols forcing) reinforced by the current positive phase of the Atlantic Multidecadal Variability (AMV)36, precondition the region for more intense marine heat extremes by making the upper ocean more difficult to mix vertically, to dissipate or export the heat gained from the atmosphere down to the subsurface. The development of marine heat extremes itself, further enhances vertical temperature gradient and leads to more intense upper ocean stratification acting as a positive feedback37. This effect is illustrated by both the averaged temperature profile in the HS region in May–June 2023 (Fig. 3c), and the spatial structure of the stratification anomaly, which perfectly matches the HS pattern (Fig. 3d). The upper ocean (0–200 m) ocean heat content of the North Atlantic basin shows a basin-wide consistent and nearly homogeneous positive anomaly in May–June 2023 (Fig. 3e), reaching 3.1 × 108 J m−2 (2.7 times the standard deviation of the 1991–2020 period).The change in SST over a given time period is primarily controlled by the time-integrated net air-sea heat flux (Flux) divided by the ocean Mixed Layer Depth (MLD; see Methods). This is particularly true in regions where upper ocean temperature advection and mixing are weak compared to surface fluxes, such as over the HS region38,39. Such a relationship is verified here with a correlation value equal to 0.75 (r = 0.7 when excluding 2023, p_value  < 0.01) between the SST change from January to June of a given year and the corresponding Flux/MLD ratio (Fig. 4). As expected from the analyses described above, 2023 is an extreme year for both quantities, but it is worth noting that 2023 perfectly follows the climatological statistical relationship assessed here by linear regression and is not abnormal in this respect.Fig. 4: Drivers of SST interannual variability in the horseshoe region.SST changes between January and June (ΔT), compared to the time-integrated net heat flux (Flux) divided by the mixed layer depth (MLD) for each individual year (dot) over 1991–2023 (see Methods). The dashed black line represents the linear fit of the data points, excluding the year 2023. The colour of each data point indicates the percentage change in Flux/MLD attributable to the long-term trend in MLD.Full size imageThe impact of MLD variability on the extreme 2023 January-to-June SST warming is assessed by recalculating the ratio Flux/MLD using the 1991–2020 climatological MLD seasonal cycle instead of the instantaneous raw MLD. We find that the induced upper ocean warming in 2023 is multiplied by a factor of two when accounting for MLD variability providing strong evidence for a positive feedback due to ocean processes that amplify the response to the observed interannual extreme air-sea heat flux anomaly event (Fig. 2d). To go further, we disentangle the effect of the long-term change in stratification from the concomitant response of the MLD to fluxes. To do so, we repeat the same calculation, but this time with monthly detrended MLD over 1991–2023, thereby preserving interannual variability (Fig. 4). We find that the long-term change in MLD driven by increased stratification has boosted the 2023 extreme temperature by about 20% (Fig. 4).2023 as an internal variability event in a warming climateThe 2023 North Atlantic observed extreme event is now assessed in the context of human-caused global warming using a set of large-ensembles combining historical and scenarios simulations from 6 climate models taken from the CMIP6 database (see Methods). The probability of a 2023-type SST event to occur when the entire North Atlantic basin is considered for averaging (i.e. NATL) is estimated as a function of global warming levels (GWL) with respect to the 1850-1900 reference period, a framework used in the IPCC’s 6th assessment report40. The modelled distribution of May-June SST anomalies for a 1.3 °C GWL, which corresponds to the current observed global warming in 20236 is contrasted to the one obtained for 0 °C GWL, for both the NATL and HS regions (Fig. 5a, b). The 0 °C GWL distribution can be considered as a counterfactual world without human influence. The 1.3 °C can be considered as representative of the 2013–2032 mean climate following IPCC AR6 convention for assessing climate impacts. We a priori verified that the models accurately reproduce the spatial pattern of the observed leading mode of early summer SST variability in the North Atlantic and that the spatial domain used to define the HS region of interest is also fit-for-purpose for analyses from simulations (see comparison between Supplementary Fig. 5 and Supplementary Fig. 2).Fig. 5: The 2023 event assessed in a warming climate.Distribution of modelled interannual May–June SST anomalies with respect to 1850-1900 climatological mean for GWL = 0 °C (blue) and GWL = 1.3 °C (orange) for (a) NATL and (b) HS regions. Vertical thin bars correspond to multi-model multi-ensemble means for each GWL. The thick vertical bars (red) correspond to the 2023 anomalies from OSTIA (dashed) and ERSSTv5 (solid). Maps of the May-June relative SST anomaly (grid-point anomaly minus basin-wide averaged anomaly) for (c) ERSSTv5 in 2023 relative to 1991–2020 and for (d) CMIP6 anthropogenically forced response at GWL = 1.3 °C relative to 1850–1900. The blue contour stands for the HS mask.Full size imageThe early summer NATL warms less than the global mean with a model-estimated forced-response equal to 0.85 °C for GWL = 1.3 °C (Fig. 5a). In comparison, the observed May-June 2023 NATL anomaly, relative to 1850-1900, is equal to 1.18 °C in OSTIA and 1.24 °C in ERSSTv5 (see Methods). The 2023 observed SST anomalies lie within the CMIP6 model distribution for the current 1.3 °C GWL and the related estimated return period of such an event is 7 [6–8 for the very-likely range] years and 10 [9–11] years for OSTIA and ERSSTv5, respectively. The NATL large-scale event in 2023 can therefore be interpreted as a rare but not exceptional event at the current state of global warming. It is however unequivocal, based on the attribution study carried out here, that it could not have occurred without human influence, as evidenced by the fact that the observed 2023 value is well outside the range of simulated interannual outcomes estimated for GWL= 0.0 °C (Fig. 5a, b).When restricted to the HS domain, the probability of getting the May–June 2023 decreases significantly and the return period is now equal to 73 [65–82] and 112 [97–131] years for OSTIA and ERSSTv5, respectively. In consequence, the May–June 2023 marine heat extreme event over the HS domain can be interpreted as exceptional (about centennial timescale) as opposed to rare (about decadal) when considering the whole NATL domain. In other words, the spatial pattern of the May–June 2023 event and/or its associated intensity can be treated as an exceptional feature of the North Atlantic for current global warming, according to model estimates.To further document and understand this result, we now compare the spatial pattern of the forced SST response estimated by the multi-model multi-ensemble mean, with the actual May–June 2023 SST anomalies from ERSSTv5 (this dataset is preferred here to OSTIA because its spatial resolution is in the same order of magnitude as model outputs). To better extract the spatial heterogeneity of the patterns, we subtract the mean anomaly computed over the NATL domain, and define the so-called relative SST anomalies. Evidence is provided here that the 2023 observed relative SST pattern, which is characterised by the above-documented HS pattern (Fig. 5c), is spatially orthogonal to the relative SST pattern of the anthropogenically forced response given by the climate models (Fig. 5d). The spatial correlation is accordingly negative and equal to −0.48 (p_value  < 0.01). This finding advocates for great caution in interpreting the 2023 event as a simple foretaste of the expected future climate. Evidence is provided here that it rather corresponds to an extreme phase of internal variability superimposed on a warming background of orthogonal spatiality that is here consequently modulated at interannual timescale.Conclusions and discussionsHuman-induced climate change has significantly increased the frequency, duration, and intensity of MHWs and basin-scale ocean extremes in recent decades. In such a context, the North Atlantic experienced an unprecedented event in 2023, considering the spatial extent, intensity and persistence of the ocean anomalies. It is the most extreme large-scale SST anomaly event ever recorded since the advent of satellite observations (Fig. 1). In this paper, we have focussed on the onset of the event and have paid particular attention to the spatial distribution of the early summer SST anomalies, which is characterised by a horseshoe-shaped structure, a striking and important feature to consider for a correct interpretation of 2023 in a warming context.We here show that the North Atlantic singular SST surge in May–June 2023 was triggered by unprecedented air-sea heat flux anomalies due to specific atmospheric conditions acting as a forcing on the ocean (Fig. 2), and was enhanced by ocean preconditioning resulting mostly from human-caused global warming modulated by the ongoing positive phase of the Atlantic multidecadal variability (Fig. 3). All of these effects tended to further reinforce an HS-type large-scale pattern that had been imprinted a few months earlier (Fig. 1c) by a very pronounced negative phase of the North Atlantic Oscillation (NAO) in late winter/early spring (February–April)(e.g. see data from https://climatedataguide.ucar.edu/sites/default/files/2024-01/nao_pc_mam.txt).The HS pattern corresponds to the leading mode of May-June interannual SST variability in the North Atlantic, which is known to be mainly driven by internal variability processes and in particular by anomalous atmospheric circulation and associated change in air-sea surface fluxes24,25. The observed changes in 2023 follow the canonical relationship between temperature change and the ratio of net air-sea heat flux to MLD (Fig. 4). Subsurface ocean preconditioning due to long term and human-caused increase in upper ocean stratification has additionally exacerbated the SST anomalies by 20%, and then contributed to breaking records by a large margin. This questions the hypotheses of additivity between mean climate and internal modes of atmospheric variability, which are traditionally made in attribution studies. We here show through the 2023 case study that the actual warmer ocean background acts as strong positive feedback for the climate effects of internally driven atmospheric fluctuations.The May-June 2023 North Atlantic atmospheric circulation should be interpreted as a temporal succession of a subset of summertime weather regimes (not shown), which are all characterised by low pressure anomalies in the subtropics41. In particular, it does not project on the canonical summer NAO pattern and not strongly on the other leading modes of variability (Supplementary Fig. 5). It is the sequence of weather regimes over May-June, which lead in fine to a long-lasting (a.k.a. seasonal-mean) weakening of the climatological Azores High and then acted as an efficient booster of the HS pattern partially in place in the beginning of spring. The tropical branch of the 2023 HS is likely to have been enhanced by reduced solar dimming due to less offshore export of Saharan dust in low-mid atmosphere42 due to record-low trade winds43. Aerosols control part of the solar radiation scattering44 and also act as cloud condensation nuclei, especially for low clouds over the Northeast Atlantic45.Without climate change, the observed extreme SST event in May-June 2023 in the North Atlantic would have been impossible in intensity, according to CMIP6 outcomes. At current levels of global warming, the May-June record of 2023 is assessed to be a decadal SST event when averaged over the entire North Atlantic. We therefore argue that a 2023-type event, however extreme it may have appeared and been covered by media or in operational reports e.g.46, was expected in a rapidly warming climate. This conclusion is somehow inconsistent with Kuhlbrodt et al. (2024)’s4 findings. The discrepancies may probably rely on the number of simulations used for assessment in the attribution study carried out here (28 versus 675 here based on large ensembles, see Methods).That said, the spatial pattern of the extreme SST anomalies in 2023 is spatially anticorrelated with the one expected from the sole anthropogenic forcing, as estimated from 6 large CMIP6 ensembles (Supplementary Fig. 7). The 2023 observed event could therefore be understood as an extreme event of internal variability superimposed on anthropogenically forced warming trend. This physically based storyline is crucial to consider for climate services and in particular impact assessments on marine ecosystems, as the regions of maximum SST anomalies observed in 2023 may not be the ones at greatest risk in the future when considering the spatial properties of the expected forced response. When considering the HS domain where SST extremes have been observed in 2023, we find that the return period of a 2023-type event is about centennial.The interpretation presented above motivates our recommendation to :
+go beyond simple indices such as SST averaged over the entire North Atlantic basin, which may mislead physical understanding and impair proper risk assessment in a warming climate;
+use large ensembles of simulations from several models to properly account for internal variability, which can either enhance or attenuate the anthropogenic response. Large ensembles would also allow to better account for the complex interactions between local ocean and atmospheric processes that are strongly modulated by internal variability. Indeed, the weight of internal variability in explaining observed anomalies has been significant at regional scales in many ocean basins over the historical period and will remain so in the near future (over the next two decades or so,40);
+evaluate and account for the non-stationarity of the teleconnections and impacts associated with atmospheric internal modes of variability as climate is warming. Evidence for positive feedback due to long-term enhanced stratification is found here to be key for risk assessment in the ocean (e.g. MHW ecological consequences, etc.).
+Uncertainties remain in the assessment of the observed 2023 SST event due to structural errors in models. First, simulations of past, present and future extratropical climate from CMIP6-class coupled model simulations significantly underestimate the range of outcomes originating from large-scale atmospheric circulation variability driven by internal variability, particularly over the North Atlantic47. As a result, the likelihood of extreme seasons is underrated and the timescale assessed here to be centennial for the 2023 HS event, could be overestimated and therefore conservative. Second, missing processes in models may also attenuate the imprint of internally driven atmospheric variability and associated wind and surface fluxes, on the ocean. For instance, Sahara dust aerosol concentrations are typically non-interactive in many CMIP6-class models and the variability in related dimming effect is consequently not considered, whereas in 2023 this has a potential feedback role in explaining the observed extreme SST values in the subtropical North Atlantic. Third, other sources of error may affect the magnitude and spatial shape of the anthropogenically forced SST response over the North Atlantic. The representation of aerosol effect is one of the sources e.g.48,49. The evolution of the aerosols emission in scenarios is another one and there is ongoing debate about the role of the International Maritime Organization (IMO) regulation which drastically cuts shipping-related sulfur dioxide emissions in 202050,51. Our finding would advocate for a much greater importance of internal variability in setting the 2023 event, an interpretation reinforced by Jordan and Henry52 showing the map of the estimated IMO2020 forced SST (their Fig. 4a) that is orthogonal to the observed HS-shaped anomaly evidenced here. Additionally, the multi-model anthropogenically forced pattern in SST (Supplementary Fig. 7g) is rather consistent with the observed trend over the last 30 years estimated from ERSSTv5 and OSTIA (Supplementary Fig. 7 h, i). The spatial correlation between the forced component of the warming and the trend maps is positive, equal to +0.38 and +0.47, respectively (p_value  < 0.01) shading more confidence in the modelled forced response than in the model representation the amplitude of internal variability. Indeed, biases are not specifically in the representation of the spatial pattern of the modes which is quite accurate, as shown from analyses based on pre-industrial control simulations designed to isolate the internal component of the variability (Supplementary Fig. 5), but rather on the strength of the modes, which tends to be systematically underestimated. This is crucial to work on and fix this long-lasting model errors in the North Atlantic (e.g.53) to be able to better understand extreme outcomes in the future and to better assess their impacts.This study marks a crucial step towards a comprehensive understanding of North Atlantic ocean warming. Notably, the ongoing context of climate warming is likely to produce new record-setting events in the coming years, in a context where ocean heat content and upper ocean stratification continue increasing, with even some signs of acceleration of ocean heat content26,54,55,56. Exploring the implications of a warmer North Atlantic ocean and its related spatial inhomogeneity, all together in the presence of internal variability, is vital, given its role as a key region for cyclone development57,58, as a planetary-scale climate regulator59, and as a unique marine ecosystem60.MethodsAtmospheric variables and sea surface temperatureWe use monthly ERA5 reanalysis regridded to a regular latitude-longitude grid of 0.25 ° for all atmospheric surface variables61. Anomalies in surface fields are relative to the 1991-2020 climatological meaning in accordance with the standards set by the WMO. Version 3 of European Space Agency Climate Change Initiative (ESA-CCI) level 4 Climate Data Record (CDR)62 as SST daily climatology. Daily anomalies are first computed by removing a daily climatology estimated over the 1991-2020 period with a 5-day moving average applied. The SST CDR measurements are derived from cloud-free reprocessed thermal infrared radiance data captured by the Metop Advanced Very High-Resolution Radiometer (AVHRR), Along-Track Scanning Radiometer (ATSR), Sea and Land Surface Temperature Radiometers (SLSTRs), and Advanced Microwave Scanning Radiometers (AMSRs) sensors. This dataset offers a daily and globally consistent record, spanning from 1980 to 2021, and corrected for the diurnal cycle. The data is provided in a regular latitude-longitude grid format with a spatial resolution of 0.05°. This daily dataset was then averaged to generate a monthly SST climatology. We then calculated daily (resp. monthly) anomalies by comparing the daily (resp. monthly) ESA-CCI climatology to the daily (resp. monthly) Operational Sea surface Temperature and sea Ice AnalysisOSTIA,22 L4 analysis data. The OSTIA archive is limited in time and does not go as far back as 1850. For the unique purpose of comparison with the climate historical simulations given in section 2023 As an Internal Variability Event in a Warming Climate, the 1850–1900 anomalies are calculated using the delta method, with ERSSTv5 as the reference. Thus, the difference in anomaly between 1991–2020 and 1850–1900 is calculated from ERSSTv563, which is then added to the OSTIA anomaly referenced to 1991-2020, to produce an anomaly referenced to 1850-1900.Ocean subsurface data and processingWe use the Institute of Atmospheric Physics (IAP) observation-based temperature/salinity fields that were gridded from an historical database of in-situ temperature and salinity profiles and described in Cheng et al.64,65. This product relies on observations and interpolation to obtain a 4-D grid of temperature and salinity on a longitude, latitude, depth, and time grid. The data has a 1°  × 1° horizontal resolution on 41 vertical levels from 1-2000m, and a monthly resolution from January 1940 to September 2023. To assess observational uncertainties, we compare IAP to the gridded product provided by the Met Office Hadley Centre (EN4) described in Good et al.66. The representation of the climatological mean May-June upper ocean stratification (0-200 m) is also compared to the climatological mean stratification published in Sallée et al.26. The three different estimates show very similar climatological mean as shown in Supplementary Fig. 4. The time-change subsurface ocean anomalies are also very similar across IAP and EN4 as shown in Supplementary Fig. 8. In particular, the stratification anomaly in 2023 is as large in both products. Regarding the long-term trend in stratification, IAP is more in line than EN4 with the latest published estimate26: EN4 underestimate it by a factor two, while IAP agrees with the latter within 20%.Based on this dataset, we define a number of upper ocean metrics that characterise its heat content and stability: (i) The upper 200 m ocean heat content (J.m−2) is defined as the integral of the ocean temperature T multiplied by the density of the seawater ρ and the mass heat capacity of the seawater Cp:$$OHC=\int_{0}^{200m}\rho \,{C}_{p}\,\,{{\mbox{T}}}\,\,{{d}}z,$$
+                    (1)
+                (ii) The upper 200 m stratification is defined as the squared buoyancy frequency computed from the density gradient over the top 200 m layer:$${N}^{2}=-\frac{g}{\rho }{\left.\frac{\partial {\sigma }_{0}}{\partial z}\right|}_{0\ge z\ge 200},$$
+                    (2)
+                where σ0 is potential density referenced to the surface, and g is the gravitational acceleration. The squared buoyancy frequency, N2, is expressed in s−2 in this manuscript following the Standard International unit convention.The stratification can be expressed, to a first approximation, as a linear combination of distinct temperature and salinity contributions67:$${N}^{2}={N}_{{{\rm{T}}}}^{2}+{N}_{{{\rm{S}}}}^{2}\,{{\mbox{, with}}}\,{{\rm{N}}}_{{{\rm{S}}}}^{2}=-g\beta {\left.\frac{\partial S}{\partial z}\right |}_{0\ge z \ge 200}\,{{\mbox{and}}}\,{{\rm{N}}}_{{{\rm{T}}}}^{2}=g\alpha {\left. \frac{\partial T}{\partial z}\right|}_{0\ge z\ge 200},$$
+                    (3)
+                where β is the haline contraction coefficient and α is the thermal expansion coefficient.(iii) The mixed layer is defined as the oceanic surface layer in which density is nearly homogeneous with depth. A number of methods have been developed over the years to compute mixed layer depth from a given density, salinity or temperature profile68,69. Methods based on density profiles rather than temperature profiles are usually more successful in detecting the mixed layer base69,70,71 and have become a standard for defining the mixed-layer depth. In this study, we define the mixed layer depth as the depth at which the potential density referenced to the surface, σ0, exceeds by a threshold of 0.03 kg.m−3 the density of the water at 10 m: σ0(z = H) = σ0(z = 10m)+0.03 kg.m−3, with H as the mixed layer depth.Similar to what is done for the atmospheric and SST data, we compute a 30-year (1991-2020) climatological mean for each of these variables, which we remove to compute the May-June anomaly displayed in the different figures.Heat budget in the ocean mixed layerFor the vertically averaged surface layer, the heat budget can be written:$$MLD\left(\frac{\partial T}{\partial t}+{{\bf{v}}}.\nabla T+\overline{{v}^{{\prime} }.\nabla {T}^{{\prime} }}\right)+\delta T{w}_{e}+\nabla .\int_{-MLD}^{0}\hat{v}\hat{T}dz=\frac{Flux}{\rho {C}_{p}},$$
+                    (4)
+                e.g.70,72,73, where MLD is the layer thickness, T the mean temperature of the layer, v the mean horizontal velocity vector, primes denote variability about the mean state, δT the temperature jump at the base of the layer, we the entrainment velocity, \(\hat{T}\) and \(\hat{v}\) represent deviations from the vertical average, and Flux is the net heat flux at the ocean surface. In this equation, the heat flux across the base of the layer due to shortwave radiative penetration is assumed small, and the diffusive flux of heat at the base of the layer is neglected.Based on this equation, at first order, assuming a one-dimensional water column, and neglecting all terms associated with ocean dynamics, the time evolution of the vertically integrated upper ocean temperature in the mixed layer from January to June, Δ T, can be expressed:$$\Delta T\,\alpha \,\int_{{t}_{0} = Jan}^{{t}_{1} = Jun}\frac{Flux(t)}{MLD(t)}{{\rm{d}}}t.$$
+                    (5)
+                Simulations and statistics to compute return-periodsWe use historical [1850–2014] runs prolonged by projections up to 2040 based on four representative SSPSSP1-2.6,SSP2-4.5,SSP3-7.0,SSP5-8.5,74 from 6 models forming a total of 675 simulations used here for statistics (return period, partition between forced and internal component, etc.). This pool of models include 6 SMILEs which consists in the production of several simulations, or members, which only differ by their initial conditions, the fully coupled model remaining the same (see Supplementary Table 1). SMILEs, or large ensembles, allow better, i.e less biased, estimates of the forced response defined by the multi-member mean (see Supplementary Fig. 4a–f for each SMILEs and Supplementary Fig. 4g for multi-model ensemble mean) as well as the range of possible climate outcomes set by internal variability75. The number and choice of models, here 6, is dictated by the availability of ensembles large enough in the CMIP6 database at the time of developing our study. We have used models with at least 20 members for a given SSP.To get the distributions of simulated NATL SST anomalies for a considered global warming level (GWL), we first compute the 20-yr running mean timeseries of Global Surface Air (GSAT) Temperature for all 675 members treated individually. We then detect the GWL in each time series with respect to the 1850–1900 reference period and select the a priori computed simulated NATL SST anomalies of the individual 20 years straddling the considered GWL [±0.1 °C] forming in fine the multi-model multi-member range of outcomes for interannual NATL SST anomalies that we represent by distributions (Fig. 5a, b). The forced response is estimated by multi-model multi-member weighted mean (vertical bars in Fig. 5a, b). The return period of the 2023 NATL SST event corresponds to the percentile obtained from the multi-model multi-member distribution for the magnitude of the observed SST anomalies estimated from two observational datasets (ERSSTv5 and OSTIA) to assess part of the observational uncertainty (vertical red bars in Fig. 5a, b). Confidence interval in the return period value is assessed by bootstrapping (1000 random drawings with replacement among the 675 members in total). To compute the probability density function (Fig. 5), each member is weighted according to the size of the ensemble of the models, which differs (see Supplementary Table 1).
+Data availability
+OSTIA SST data are publicly available for download from the UK Met Office dedicated website: https://ghrsst-pp.metoffice.gov.uk/ostia-website/index.html. ERSSTv5 SST data are publicly available for download from the NOAA dedicated website: https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html. ESA-CCI SST CDR v.3 are publicly available from the CEDA archive: https://catalogue.ceda.ac.uk/uuid/4a9654136a7148e39b7feb56f8bb02d2/. The gridded in-situ temperature and salinity products are publicly available from the IAP website: http://www.ocean.iap.ac.cn/pages/dataService/dataService.html.
+ReferencesWMO. State of the Global Climate 2023 (2024). https://wmo.int/publication-series/state-of-global-climate-2023 (Accessed 4 September 2024).Trenberth, K. E., Caron, J. M., Stepaniak, D. P. & Worley, S. Evolution of el niño–southern oscillation and global atmospheric surface temperatures. J. Geophys. Res.: Atmospheres 107, AAC–5 (2002).Article 
+    
+                    Google Scholar 
+                Purich, A. & Doddridge, E. W. Record low antarctic sea ice coverage indicates a new sea ice state. Commun. Earth Environ. 4, 314 (2023).Article 
+    
+                    Google Scholar 
+                Kuhlbrodt, T., Swaminathan, R., Ceppi, P. & Wilder, T. A glimpse into the future: The 2023 ocean temperature and sea-ice extremes in the context of longer-term climate change. Bull. Am. Meteorol. Soc. 105, E474–85 (2024).Dhakal, S. et al. Emissions Trends and Drivers Section 2 (Cambridge University Press, 2022).Forster, P. M. et al. Indicators of global climate change 2023: annual update of key indicators of the state of the climate system and human influence. Earth Syst. Sci. Data 16, 2625–2658 (2024).Article 
+    
+                    Google Scholar 
+                Von Schuckmann, K. et al. Heat stored in the earth system: Where does the energy go? The GCOS earth heat inventory team. Earth Syst. Sci. Data Discuss. 2020, 1–45 (2020).
+                    Google Scholar 
+                Chen, D. et al. Framing, Context, and Methods 147–286 (Cambridge University Press, 2021).Fox-Kemper, B. et al. Ocean, Cryosphere and Sea Level Change 1211–1362 (Cambridge University Press, 2021).Trewin, B. Assessing internal variability of global mean surface temperature from observational data and implications for reaching key thresholds. J. Geophys. Res.: Atmos. 127, e2022JD036747 (2022).Article 
+    
+                    Google Scholar 
+                Oliver, E. C. J., Perkins-Kirkpatrick, S. E., Holbrook, N. J. & Bindoff, N. L. Anthropogenic and natural influences on record 2016 marine heat waves. Bull. Am. Meteorol. Soc. 99, S44 – S48 (2018).Article 
+    
+                    Google Scholar 
+                Sen Gupta, A. et al. Drivers and impacts of the most extreme marine heatwave events. Sci. Rep. 10, 19359 (2020).Article 
+    
+                    Google Scholar 
+                Collins, M. et al. Extremes, Abrupt Changes and Managing Risk 589–655 (Cambridge University Press, 2019). Available from http://www.ipcc.ch/srocc/.Smale, D. A. et al. Marine heatwaves threaten global biodiversity and the provision of ecosystem services. Nat. Clim. Change 9, 306–312 (2019).Article 
+    
+                    Google Scholar 
+                Santana-Falcón, Y. et al. Irreversible loss in marine ecosystem habitability after a temperature overshoot. Commun. Earth Environ. 4, 343 (2023).Article 
+    
+                    Google Scholar 
+                Smith, K. E. et al. Socioeconomic impacts of marine heatwaves: global issues and opportunities. Science 374, eabj3593 (2021).Article 
+    CAS 
+    
+                    Google Scholar 
+                Cheng, L. et al. Past and future ocean warming. Nat. Rev. Earth Environ. 3, 776–794 (2022).Article 
+    
+                    Google Scholar 
+                Holbrook, N. J. et al. Keeping pace with marine heatwaves. Nat. Rev. Earth Environ. 1, 482–493 (2020).Article 
+    
+                    Google Scholar 
+                Mills, K. E. et al. Fisheries management in a changing climate: lessons from the 2012 ocean heat wave in the northwest Atlantic. Oceanography 26, 191–195 (2013).Article 
+    
+                    Google Scholar 
+                Guinaldo, T., Voldoire, A., Waldman, R., Saux Picart, S. & Roquet, H. Response of the sea surface temperature to heatwaves during the France 2022 meteorological summer. Ocean Sci. 19, 629–647 (2023).Article 
+    
+                    Google Scholar 
+                Cheng, L. et al. Ocean heat content in 2023. Nat. Rev. Earth Environ. 5, 232–234 (2024).Article 
+    
+                    Google Scholar 
+                Donlon, C. J. et al. The operational sea surface temperature and sea ice analysis (ostia) system. Remote Sens. Environ. 116, 140–158 (2012).Article 
+    
+                    Google Scholar 
+                Cassou, C., Deser, C., Terray, L., Hurrell, J. W. & Drévillon, M. Summer sea surface temperature conditions in the north atlantic and their impact upon the atmospheric circulation in early winter. J. Clim. 17, 3349 – 3363 (2004).Article 
+    
+                    Google Scholar 
+                Cassou, C., Terray, L. & Phillips, A. S. Tropical Atlantic influence on European heat waves. J. Clim. 18, 2805–2811 (2005).Article 
+    
+                    Google Scholar 
+                Cayan, D. R. Latent and sensible heat flux anomalies over the northern oceans: driving the sea surface temperature. J. Phys. Oceanogr. 22, 859–881 (1992).Article 
+    
+                    Google Scholar 
+                Sallée, J.-B. et al. Summertime increases in upper-ocean stratification and mixed-layer depth. Nature 591, 592–598 (2021).Article 
+    
+                    Google Scholar 
+                Bonino, G., Di Lorenzo, E., Masina, S. & Iovino, D. Interannual to decadal variability within and across the major eastern boundary upwelling systems. Sci. Rep. 9, 19949 (2019).Article 
+    CAS 
+    
+                    Google Scholar 
+                Georg, T., Neves, M. C. & Relvas, P. The signature of nao and EA climate patterns on the vertical structure of the canary current upwelling system. Ocean Sci. 19, 351–361 (2023).Article 
+    
+                    Google Scholar 
+                Brueck, M., Nuijens, L. & Stevens, B. On the seasonal and synoptic time-scale variability of the north Atlantic trade wind region and its low-level clouds. J. Atmos. Sci. 72, 1428–1446 (2015).Article 
+    
+                    Google Scholar 
+                Klein, S. A., Hall, A., Norris, J. R. & Pincus, R. in Shallow Clouds, Water Vapor, Circulation, and Climate Sensitivity (eds Pincus, R., Winker, D., Bony, S., Stevens, B.) 135–157 (Springer, 2018).Bellomo, K., Clement, A. C., Murphy, L. N., Polvani, L. M. & Cane, M. A. New observational evidence for a positive cloud feedback that amplifies the Atlantic multidecadal oscillation. Geophys. Res. Lett. 43, 9852–9859 (2016).Article 
+    
+                    Google Scholar 
+                Yuan, T. et al. Positive low cloud and dust feedbacks amplify tropical north Atlantic multidecadal oscillation. Geophys. Res. Lett. 43, 1349–1356 (2016).Article 
+    
+                    Google Scholar 
+                Berthou, S. et al. Exceptional atmospheric conditions in June 2023 generated a northwest European marine heatwave which contributed to breaking land temperature records. Commun. Earth Environ. 5, 287 (2024).Article 
+    
+                    Google Scholar 
+                Barrier, N., Cassou, C., Deshayes, J. & Treguier, A.-M. Response of north Atlantic ocean circulation to atmospheric weather regimes. J. Phys. Oceanogr. 44, 179 – 201 (2014).Article 
+    
+                    Google Scholar 
+                Hobday, A. J. et al. Categorizing and naming marine heatwaves. Oceanography 31, 162–173 (2018).Article 
+    
+                    Google Scholar 
+                Eyring, V. et al. Human Influence on the Climate System 423–552 (Cambridge University Press, 2021).Capotondi, A. et al. A global overview of marine heatwaves in a changing climate. Commun. Earth Environ. 5, 701 (2024).Article 
+    
+                    Google Scholar 
+                Frankignoul, C., Czaja, A. & L’heveder, B. Air–sea feedback in the North Atlantic and surface boundary conditions for ocean models. J. Clim. 11, 2310–2324 (1998).Article 
+    
+                    Google Scholar 
+                Buckley, M. W., Ponte, R. M., Forget, G. & Heimbach, P. Low-frequency sst and upper-ocean heat content variability in the north atlantic. J. Clim. 27, 4996–5018 (2014).Article 
+    
+                    Google Scholar 
+                IPCC. Summary for Policymakers 3–32 (Cambridge University Press, 2021).Cortesi, N. et al. Yearly evolution of euro-atlantic weather regimes and of their sub-seasonal predictability. Clim. Dyn. 56, 3933–3964 (2021).Article 
+    
+                    Google Scholar 
+                Francis, D., Fonseca, R., Nelli, N. & Yarragunta, Y. Unusually low dust activity in North Africa in June 2023: Causes, impacts and future projections. Atmos. Res. 309, 107594 (2024).Article 
+    
+                    Google Scholar 
+                Moulin, C., Lambert, C. E., Dulac, F. & Dayan, U. Control of atmospheric export of dust from North Africa by the north Atlantic oscillation. Nature 387, 691–694 (1997).Article 
+    CAS 
+    
+                    Google Scholar 
+                Li, J. et al. Scattering and absorbing aerosols in the climate system. Nat. Rev. Earth Environ. 3, 363–379 (2022).Article 
+    CAS 
+    
+                    Google Scholar 
+                Karydis, V., Kumar, P., Barahona, D., Sokolik, I. & Nenes, A. On the effect of dust particles on global cloud condensation nuclei and cloud droplet number. J. Geophys. Res.-Atmos. 116 (2011).ECMWF. Record-breaking north Atlantic ocean temperatures contribute to extreme marine heatwaves https://climate.copernicus.eu/record-breaking-north-atlantic-ocean-temperatures-contribute-extreme-marine-heatwaves (Accessed 4 September 2024) (2023).O’Reilly, C. H. et al. Projections of northern hemisphere extratropical climate underestimate internal variability and associated uncertainty. Commun. Earth Environ. 2, 194 (2021).Article 
+    
+                    Google Scholar 
+                Fiedler, S. & Putrasahan, D. How does the north Atlantic sst pattern respond to anthropogenic aerosols in the 1970s and 2000s? Geophys. Res. Lett. 48, e2020GL092142 (2021).Article 
+    
+                    Google Scholar 
+                Quaas, J. et al. Robust evidence for reversal of the trend in aerosol effective climate forcing. Atmos. Chem. Phys. 22, 12221–12239 (2022).Article 
+    CAS 
+    
+                    Google Scholar 
+                Yuan, T. et al. Abrupt reduction in shipping emission as an inadvertent geoengineering termination shock produces substantial radiative warming. Commun. Earth Environ. 5, 281 (2024).Article 
+    
+                    Google Scholar 
+                Yoshioka, M., Grosvenor, D. P., Booth, B. B., Morice, C. P. & Carslaw, K. S. Warming effects of reduced sulfur emissions from shipping. EGUsphere 2024, 1–19 (2024).
+                    Google Scholar 
+                Jordan, G. & Henry, M. Imo2020 regulations accelerate global warming by up to 3 years in ukesm1. Earth’s. Future 12, e2024EF005011 (2024).Article 
+    
+                    Google Scholar 
+                Richter, I. & Tokinaga, H. An overview of the performance of cmip6 models in the tropical Atlantic: mean state, variability, and remote impacts. Clim. Dyn. 55, 2579–2601 (2020).Article 
+    
+                    Google Scholar 
+                Li, Z., England, M. H. & Groeskamp, S. Recent acceleration in global ocean heat accumulation by mode and intermediate waters. Nat. Commun. 14, 6888 (2023).Article 
+    CAS 
+    
+                    Google Scholar 
+                Minière, A., von Schuckmann, K., Sallée, J.-B. & Vogt, L. Robust acceleration of earth system heating observed over the past six decades. Sci. Rep. 13, 22975 (2023).Article 
+    
+                    Google Scholar 
+                Cael, B., Burger, F. A., Henson, S. A., Britten, G. L. & Frölicher, T. L. Historical and future maximum sea surface temperatures. Sci. Adv. 10, eadj5569 (2024).Article 
+    CAS 
+    
+                    Google Scholar 
+                Emanuel, K. Increasing destructiveness of tropical cyclones over the past 30 years. Nature 436, 686–688 (2005).Article 
+    CAS 
+    
+                    Google Scholar 
+                Pfleiderer, P., Nath, S. & Schleussner, C.-F. Extreme Atlantic hurricane seasons made twice as likely by ocean warming. Weather Clim. Dyn. 3, 471–482 (2022).Article 
+    
+                    Google Scholar 
+                Mecking, J. V. & Drijfhout, S. S. The decrease in ocean heat transport in response to global warming. Nat. Clim. Change 13, 1229–1236 (2023).Article 
+    
+                    Google Scholar 
+                Cyr, F. et al. Physical controls and ecological implications of the timing of the spring phytoplankton bloom on the Newfoundland and labrador shelf. Limnol. Oceanogr. Lett. 9, 191–198 (2023).Hersbach, H. et al. The era5 global reanalysis. Q. J. R. Meteorol. Soc. 146, 1999–2049 (2020).Article 
+    
+                    Google Scholar 
+                Embury, O. et al. Satellite-based time-series of sea-surface temperature since 1980 for climate applications. Sci. Data 11, 326 (2024).Article 
+    
+                    Google Scholar 
+                Huang, B. et al. Extended reconstructed sea surface temperature, version 5 (ersstv5): upgrades, validations, and intercomparisons. J. Clim. 30, 8179–8205 (2017).Article 
+    
+                    Google Scholar 
+                Cheng, L. & Zhu, J. Benefits of cmip5 multimodel ensemble in reconstructing historical ocean subsurface temperature variations. J. Clim. 29, 5393–5416 (2016).Article 
+    
+                    Google Scholar 
+                Cheng, L. et al. Improved estimates of ocean heat content from 1960 to 2015. Sci. Adv. 3, e1601545 (2017).Article 
+    
+                    Google Scholar 
+                Good, S. A., Martin, M. J. & Rayner, N. A. En4: Quality controlled ocean temperature and salinity profiles and monthly objective analyses with uncertainty estimates. J. Geophys. Res.: Oceans 118, 6704–6716 (2013).Article 
+    
+                    Google Scholar 
+                Gill, A. & Niller, P. The theory of the seasonal variability in the ocean. Deep Sea Research and Oceanographic Abstracts Vol. 20, 141–177 (Elsevier, 1973).de Boyer Montégut, C., Madec, G., Fischer, A. S., Lazar, A. & Iudicone, D. Mixed layer depth over the global ocean: an examination of profile data and a profile-based climatology. J. Geophys. Res.: Oceans 109 (2004).Holte, J. & Talley, L. A new algorithm for finding mixed layer depths with applications to Argo data and subantarctic mode water formation. J. Atmos. Ocean. Technol. 26, 1920–1939 (2009).Article 
+    
+                    Google Scholar 
+                Sallée, J.-B., Wienders, N., Speer, K. & Morrow, R. Formation of subantarctic mode water in the southeastern Indian ocean. Ocean Dyn. 56, 525–542 (2006).Article 
+    
+                    Google Scholar 
+                Holte, J., Talley, L. D., Gilson, J. & Roemmich, D. An argo mixed layer climatology and database. Geophys. Res. Lett. 44, 5618–5626 (2017).Article 
+    
+                    Google Scholar 
+                Stevenson, J. W. & Niiler, P. P. Upper ocean heat budget during the Hawaii-to-tahiti shuttle experiment. J. Phys. Oceanogr. 13, 1894–1907 (1983).Article 
+    
+                    Google Scholar 
+                Qiu, B. Interannual variability of the Kuroshio extension system and its impact on the wintertime SST field. J. Phys. Oceanogr. 30, 1486–1502 (2000).Article 
+    
+                    Google Scholar 
+                Riahi, K. et al. The shared socioeconomic pathways and their energy, land use, and greenhouse gas emissions implications: an overview. Glob. Environ. change 42, 153–168 (2017).Article 
+    
+                    Google Scholar 
+                Deser, C., Alexander, M. A., Xie, S.-P. & Phillips, A. S. Sea surface temperature variability: patterns and mechanisms. Annu. Rev. Mar. Sci. 2, 115–143 (2010).Article 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsT.G acknowledges support from the Centre National de Recherches Météorologiques (CNRM) of Méteo-France and the Centre National de la Recherche Scientifique (CNRS) of the French research ministry. C.C acknowledges support from IMPETUS4CHANGE, funded by the European Union’s Horizon Europe research and innovation programme under grant agreement No 101081555. All the authors acknowledge the World Climate Research Programme, which, through its Working Group on Coupled Modelling, coordinated and promoted CMIP6. All the authors thank the climate modelling groups for producing and making available their model output, the Earth System Grid Federation (ESGF) for archiving the data and providing access, and the multiple funding agencies who support CMIP6 and ESGF.Author informationAuthor notesThese authors contributed equally: Thibault Guinaldo, Christophe Cassou, Jean-Baptiste Sallée, Aurélien Liné.Authors and AffiliationsCentre National de Recherches Météorologiques, Université de Toulouse, Météo-France, CNRS, Lannion, FranceThibault GuinaldoCECI, Université de Toulouse, CERFACS, CNRS, Toulouse, FranceChristophe Cassou & Aurélien LinéLMD-IPSL, CNRS, Ecole Normale Superieure, PSL Research University, Paris, 75005, FranceChristophe CassouSorbonne Université, CNRS, IRD, MNHN, Laboratoire d’Océanographie et du Climat: Expérimentation et Approches Numériques, Paris, FranceJean-Baptiste SalléeCentre National de Recherches Météorologiques, Université de Toulouse, Météo-France, CNRS, Toulouse, FranceJean-Baptiste SalléeInstitut de Mécanique des Fluides de Toulouse, Université de Toulouse, CNRS, INP, UPS, Toulouse, FranceAurélien LinéAuthorsThibault GuinaldoView author publicationsYou can also search for this author inPubMed Google ScholarChristophe CassouView author publicationsYou can also search for this author inPubMed Google ScholarJean-Baptiste SalléeView author publicationsYou can also search for this author inPubMed Google ScholarAurélien LinéView author publicationsYou can also search for this author inPubMed Google ScholarContributionsT.G., C.C. and J.-B.S conceived the study idea, designed the experiments, performed the data analysis, wrote and reviewed the paper. A.L. performed the model simulations, contributed to analysing the results and reviewed the paper.Corresponding authorCorrespondence to
+                Thibault Guinaldo.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Communications Earth & Environment thanks Ségolène Berthou and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Alice Drinkwater. A peer review file is available.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationTransparent Peer Review fileRights and permissions
+Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+Reprints and permissionsAbout this articleCite this articleGuinaldo, T., Cassou, C., Sallée, JB. et al. Internal variability effect doped by climate change drove the 2023 marine heat extreme in the North Atlantic.
+                    Commun Earth Environ 6, 291 (2025). https://doi.org/10.1038/s43247-025-02197-1Download citationReceived: 01 November 2024Accepted: 06 March 2025Published: 16 April 2025DOI: https://doi.org/10.1038/s43247-025-02197-1Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+Download PDF
+Associated content
+Collection
+Exceptional climate conditions in 2023
+Advertisement
+Explore content
+                                    Research articles
+                                
+                                    Reviews & Analysis
+                                
+                                    News & Comment
+                                
+                                    Collections
+                                
+Follow us on Twitter
+                            
+Sign up for alerts
+RSS feed
+About the journal
+                                    Aims & Scope
+                                
+                                    Journal Information
+                                
+                                    Open Access Fees and Funding
+                                
+                                    Journal Metrics
+                                
+                                    Editors
+                                
+                                    Editorial Board
+                                
+                                    Calls for Papers
+                                
+                                    Referees
+                                
+                                    Editorial Values Statement
+                                
+                                    Editorial policies
+                                
+                                    Conferences
+                                
+                                    Contact
+                                
+Publish with us
+                                    For authors
+                                
+                                    Language editing services
+                                
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+                Advanced search
+            
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+                        Communications Earth & Environment
+                    
+                    (Commun Earth Environ)
+                
+ISSN 2662-4435 (online)
+        
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature 
+                        Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+                
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the Nature Briefing: Anthropocene newsletter — what matters in anthropocene research, free to your inbox weekly.
+Email address
+Sign up
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing: Anthropocene
+            
